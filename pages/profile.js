@@ -1,0 +1,530 @@
+import React, { useState, useEffect } from 'react';
+import { Card, Col, Row, Button, Badge, Alert, Nav, Spinner, Tab } from 'react-bootstrap';
+import PageHeader from '../shared/layout-components/page-header/page-header';
+import Seo from '../shared/layout-components/seo/seo';
+import authService from '../shared/services/authService';
+import withAuth from './withAuth';
+import ProfileModal from '../shared/components/profile/ProfileModal';
+import TwoFactorModal from '../shared/components/profile/TwoFactorModal';
+
+const UserProfile = () => {
+    const [currentUser, setCurrentUser] = useState(null);
+    const [loading, setLoading] = useState(true);
+    const [showProfileModal, setShowProfileModal] = useState(false);
+    const [show2FAModal, setShow2FAModal] = useState(false);
+    const [activeTab, setActiveTab] = useState('profile');
+
+    useEffect(() => {
+        const fetchUserData = async () => {
+            try {
+                const user = authService.getUser();
+                setCurrentUser(user);
+            } catch (error) {
+                console.error('Error fetching user data:', error);
+            } finally {
+                setLoading(false);
+            }
+        };
+
+        fetchUserData();
+    }, []);
+
+    const handleProfileUpdate = (updatedUser) => {
+        setCurrentUser(updatedUser);
+    };
+
+    const getRoleBadgeVariant = (role) => {
+        switch (role) {
+            case 'superadmin':
+                return 'danger';
+            case 'admin':
+                return 'warning';
+            case 'operator':
+                return 'info';
+            default:
+                return 'secondary';
+        }
+    };
+
+    const getTimeSinceCreated = () => {
+        if (!currentUser?.createdAt) return 'Unknown';
+        const now = new Date();
+        const created = new Date(currentUser.createdAt);
+        const diffTime = Math.abs(now - created);
+        const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+
+        if (diffDays < 30) return `${diffDays} days ago`;
+        if (diffDays < 365) return `${Math.floor(diffDays / 30)} months ago`;
+        return `${Math.floor(diffDays / 365)} years ago`;
+    };
+
+    const formatDate = (dateString) => {
+        if (!dateString) return 'Not set';
+        try {
+            return new Date(dateString).toLocaleDateString('en-US', {
+                year: 'numeric', 
+                month: 'long',
+                day: 'numeric'
+            });
+        } catch (error) {
+            return 'Invalid date';
+        }
+    };
+    
+    const getAccountHealth = () => {
+        let score = 0;
+        if (currentUser?.email) score += 25;
+        if (currentUser?.phone) score += 25;
+        if (currentUser?.twoFactorEnabled) score += 25;
+        if (currentUser?.isActive) score += 25;
+
+        if (score >= 80) return { level: 'Excellent', color: 'success', icon: 'fe-check-circle' };
+        if (score >= 60) return { level: 'Good', color: 'info', icon: 'fe-info' };
+        if (score >= 40) return { level: 'Fair', color: 'warning', icon: 'fe-alert-triangle' };
+        return { level: 'Needs Attention', color: 'danger', icon: 'fe-alert-circle' };
+    };
+
+    if (loading) {
+        return (
+            <div className="d-flex justify-content-center align-items-center min-vh-100">
+                <Spinner animation="border" variant="primary" />
+            </div>
+        );
+    }
+
+    if (!currentUser) {
+        return (
+            <div>
+                <Seo title="Profile" />
+                <PageHeader title="Profile" item="User" active_item="Profile" />
+                <div className="container mt-4">
+                    <Alert variant="danger">
+                        <Alert.Heading>Error</Alert.Heading>
+                        <p>Unable to load user profile. Please try refreshing the page.</p>
+                    </Alert>
+                </div>
+            </div>
+        );
+    }
+
+    return (
+        <>
+            <Seo title="My Profile" />
+            <PageHeader title="My Profile" item="User" active_item="Profile" />
+
+            <Tab.Container
+                id="center-tabs-example"
+                defaultActiveKey="about"
+                className="bg-gray-100"
+            >
+                <Row className="square">
+                    <Col lg={12} md={6}>
+                        <Card className="custom-card">
+                            <Card.Body>
+                                <div className="panel profile-cover">
+                                    <div className="profile-cover__img position-relative">
+
+                                        <div className="position-absolute bottom-0 start-0 p-4 text-white">
+                                            <div className="d-flex align-items-end">
+                                                <div className="position-relative me-3">
+                                                    {currentUser.avatar ? (
+                                                        <img
+                                                            src={currentUser.avatar}
+                                                            alt="profile"
+                                                            className="rounded-circle border border-4 border-white"
+                                                            style={{ width: '80px', height: '80px', objectFit: 'cover' }}
+                                                        />
+                                                    ) : (
+                                                        <div
+                                                            className="rounded-circle border border-4 border-white bg-primary text-white d-flex align-items-center justify-content-center"
+                                                            style={{ width: '80px', height: '80px', fontSize: '2rem', fontWeight: 'bold' }}
+                                                        >
+                                                            {currentUser.username ? currentUser.username.charAt(0).toUpperCase() : 'U'}
+                                                        </div>
+                                                    )}
+
+                                                </div>
+                                                <div>
+                                                    <h3 className="h3 mb-1 text-white">
+                                                        {currentUser.username}
+                                                    </h3>
+                                                    <p className="mb-0 text-white-50">
+                                                        @{currentUser.username} • Member since {getTimeSinceCreated()}
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className="btn-list btn-profile">
+                                        <Button
+                                            variant="primary"
+                                            className="btn btn-rounded"
+                                            onClick={() => setShowProfileModal(true)}
+                                        >
+                                            <i className="fe fe-edit me-2"></i>
+                                            <span>Edit Profile</span>
+                                        </Button>
+                                        <Button
+                                            variant="outline-secondary"
+                                            className="btn btn-rounded"
+                                            onClick={() => setShow2FAModal(true)}
+                                        >
+                                            <i className="fe fe-shield me-2"></i>
+                                            <span>Security</span>
+                                        </Button>
+                                    </div>
+                                    <div className="profile-cover__action bg-img"></div>
+                                    <div className="profile-cover__info">
+                                        <ul className="nav">
+                                            <li className="d-flex flex-column align-items-center p-3">
+                                                <div className="d-flex align-items-center mb-1">
+                                                    <i className="fe fe-log-in me-2 text-primary"></i>
+                                                    <strong className="text-primary">{currentUser.loginCount || 0}</strong>
+                                                </div>
+                                                <small className="text-muted">Total Logins</small>
+                                            </li>
+                                            <li className="d-flex flex-column align-items-center p-3">
+                                                <div className="d-flex align-items-center mb-1">
+                                                    <i className="fe fe-shield me-2 text-info"></i>
+                                                    <Badge variant={getRoleBadgeVariant(currentUser.role)} className="px-2 py-1">
+                                                        {currentUser.role ? currentUser.role.toUpperCase() : 'USER'}
+                                                    </Badge>
+                                                </div>
+                                                <small className="text-muted">User Role</small>
+                                            </li>
+                                            {/* <li className="d-flex flex-column align-items-center p-3">
+                                                <div className="d-flex align-items-center mb-1">
+                                                    <i className={`fe ${getAccountHealth().icon} me-2 text-${getAccountHealth().color}`}></i>
+                                                    <Badge variant={getAccountHealth().color} className="px-2 py-1">
+                                                        {getAccountHealth().level}
+                                                    </Badge>
+                                                </div>
+                                                <small className="text-muted">Profile Health</small>
+                                            </li> */}
+                                            <li className="d-flex flex-column align-items-center p-3">
+                                                <div className="d-flex align-items-center mb-1">
+                                                    <i className={`fe ${currentUser.twoFactorEnabled ? 'fe-lock' : 'fe-unlock'} me-2 text-${currentUser.twoFactorEnabled ? 'success' : 'warning'}`}></i>
+                                                    <Badge variant={currentUser.twoFactorEnabled ? 'success' : 'warning'} className="px-2 py-1">
+                                                        {currentUser.twoFactorEnabled ? 'Secured' : 'Basic'}
+                                                    </Badge>
+                                                </div>
+                                                <small className="text-muted">Security Level</small>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div className="profile-tab tab-menu-heading">
+                                        <Nav variant="pills" className="p-3 bg-primary-transparent">
+                                            <Nav.Item>
+                                                <Nav.Link eventKey="about">About</Nav.Link>
+                                            </Nav.Item>
+                                            <Nav.Item>
+                                                <Nav.Link eventKey="editprofile">Edit Profile</Nav.Link>
+                                            </Nav.Item>
+                                            <Nav.Item>
+                                                <Nav.Link eventKey="account">Account Details</Nav.Link>
+                                            </Nav.Item>
+                                            <Nav.Item>
+                                                <Nav.Link eventKey="security">Security</Nav.Link>
+                                            </Nav.Item>
+                                            <Nav.Item>
+                                                <Nav.Link eventKey="activity">Activity</Nav.Link>
+                                            </Nav.Item>
+                                        </Nav>
+                                    </div>
+                                </div>
+                            </Card.Body>
+                        </Card>
+                    </Col>
+                </Row>
+
+                <Row className="row-sm">
+                    <Col md={12} lg={12}>
+                        <div className="card custom-card main-content-body-profile">
+                            <Tab.Content>
+                                <Tab.Pane eventKey="about">
+                                    <div className="main-content-body tab-pane p-sm-4 p-0 border-top-0">
+                                        <div className="p-4">
+                                            {/* <div className="d-flex justify-content-between align-items-center mb-3">
+                                                <h4 className="tx-15 text-uppercase mb-0">Personal Information</h4>
+                                                <Badge variant={getAccountHealth().color} className="d-flex align-items-center">
+                                                    <i className={`fe ${getAccountHealth().icon} me-1`}></i>
+                                                    {getAccountHealth().level}
+                                                </Badge>
+                                            </div> */}
+                                            <p className="m-b-5 text-muted">
+                                                {currentUser.bio ||
+                                                    `Welcome to ${currentUser.username}'s profile. 
+                          This user is a valued member of our election management system with ${currentUser.role || 'user'} privileges.`
+                                                }
+                                            </p>
+
+                                            <div className="row mt-4">
+                                                <div className="col-lg-6">
+                                                    <div className="info-item mb-3 p-3 bg-light rounded">
+                                                        <h5 className="text-primary m-b-5 tx-14 d-flex align-items-center">
+                                                            <i className="fe fe-user me-2"></i>Username
+                                                        </h5>
+                                                        <p className="mb-0 font-weight-bold">@{currentUser.username}</p>
+                                                    </div>
+
+                                                    <div className="info-item mb-3 p-3 bg-light rounded">
+                                                        <h5 className="text-primary m-b-5 tx-14 d-flex align-items-center">
+                                                            <i className="fe fe-mail me-2"></i>Email Address
+                                                        </h5>
+                                                        <p className="mb-0">
+                                                            {currentUser.email || <span className="text-muted">Not provided</span>}
+                                                        </p>
+                                                    </div>
+                                                </div>
+
+                                                <div className="col-lg-6">
+                                                    <div className="info-item mb-3 p-3 bg-light rounded">
+                                                        <h5 className="text-primary m-b-5 tx-14 d-flex align-items-center">
+                                                            <i className="fe fe-phone me-2"></i>Phone Number
+                                                        </h5>
+                                                        <p className="mb-0">
+                                                            {currentUser.phone || <span className="text-muted">Not provided</span>}
+                                                        </p>
+                                                    </div>
+
+                                                    <div className="info-item mb-3 p-3 bg-light rounded">
+                                                        <h5 className="text-primary m-b-5 tx-14 d-flex align-items-center">
+                                                            <i className="fe fe-calendar me-2"></i>Member Since
+                                                        </h5>
+                                                        <p className="text-muted tx-13 m-b-0">
+                                                            {formatDate(currentUser.createdAt)}
+                                                        </p>
+                                                    </div>
+
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </Tab.Pane>                <Tab.Pane eventKey="editprofile">
+                                    <div className="main-content-body tab-pane p-sm-4 p-0 border-top-0">
+                                        <div className="p-4 text-center">
+                                            <div className="mb-4">
+                                                <i className="fe fe-edit text-primary" style={{ fontSize: '3rem' }}></i>
+                                            </div>
+                                            <h4 className="tx-15 text-uppercase mb-3">Edit Profile</h4>
+                                            <p className="text-muted mb-4">Update your personal information, contact details, and profile settings</p>
+                                            <Button
+                                                variant="primary"
+                                                size="lg"
+                                                onClick={() => setShowProfileModal(true)}
+                                                className="me-2"
+                                            >
+                                                <i className="fe fe-edit me-2"></i>
+                                                Open Profile Editor
+                                            </Button>
+                                            <Button
+                                                variant="outline-info"
+                                                size="lg"
+                                                onClick={() => setShow2FAModal(true)}
+                                            >
+                                                <i className="fe fe-shield me-2"></i>
+                                                Security Settings
+                                            </Button>
+                                        </div>
+                                    </div>
+                                </Tab.Pane>
+
+                                <Tab.Pane eventKey="account">
+                                    <div className="main-content-body tab-pane p-sm-4 p-0 border-top-0">
+                                        <div className="p-4">
+                                            <h4 className="tx-15 text-uppercase mb-4">Account Details</h4>
+                                            <Row>
+                                                <Col md={6}>
+                                                    <div className="mb-4 p-3 border rounded">
+                                                        <label className="form-label text-muted tx-11 text-uppercase">Username</label>
+                                                        <p className="form-control-static mb-0 font-weight-bold">
+                                                            {currentUser.username}
+                                                        </p>
+                                                    </div>
+                                                </Col>
+                                                <Col md={6}>
+                                                    <div className="mb-4 p-3 border rounded">
+                                                        <label className="form-label text-muted tx-11 text-uppercase">User Role</label>
+                                                        <p className="form-control-static mb-0">
+                                                            <Badge variant={getRoleBadgeVariant(currentUser.role)} className="px-3 py-2">
+                                                                {currentUser.role ? currentUser.role.toUpperCase() : 'USER'}
+                                                            </Badge>
+                                                        </p>
+                                                    </div>
+                                                </Col>
+                                                <Col md={6}>
+                                                    <div className="mb-4 p-3 border rounded">
+                                                        <label className="form-label text-muted tx-11 text-uppercase">Account Status</label>
+                                                        <p className="form-control-static mb-0">
+                                                            <Badge variant={currentUser.isActive ? 'success' : 'danger'} className="px-3 py-2">
+                                                                <i className={`fe ${currentUser.isActive ? 'fe-check' : 'fe-x'} me-1`}></i>
+                                                                {currentUser.isActive ? 'Active' : 'Inactive'}
+                                                            </Badge>
+                                                        </p>
+                                                    </div>
+                                                </Col>
+                                                <Col md={6}>
+                                                    <div className="mb-4 p-3 border rounded">
+                                                        <label className="form-label text-muted tx-11 text-uppercase">Two-Factor Authentication</label>
+                                                        <p className="form-control-static mb-0">
+                                                            <Badge variant={currentUser.twoFactorEnabled ? 'success' : 'warning'} className="px-3 py-2">
+                                                                <i className={`fe ${currentUser.twoFactorEnabled ? 'fe-shield' : 'fe-alert-triangle'} me-1`}></i>
+                                                                {currentUser.twoFactorEnabled ? 'Enabled' : 'Disabled'}
+                                                            </Badge>
+                                                        </p>
+                                                    </div>
+                                                </Col>
+                                                <Col md={6}>
+                                                    <div className="mb-4 p-3 border rounded">
+                                                        <label className="form-label text-muted tx-11 text-uppercase">Account Created</label>
+                                                        <p className="form-control-static mb-0">
+                                                            {formatDate(currentUser.createdAt)}
+                                                        </p>
+                                                    </div>
+                                                </Col>
+                                                <Col md={6}>
+                                                    <div className="mb-4 p-3 border rounded">
+                                                        <label className="form-label text-muted tx-11 text-uppercase">Last Updated</label>
+                                                        <p className="form-control-static mb-0">
+                                                            {formatDate(currentUser.updatedAt)}
+                                                        </p>
+                                                    </div>
+                                                </Col>
+                                            </Row>
+                                        </div>
+                                    </div>
+                                </Tab.Pane>
+
+                                <Tab.Pane eventKey="security">
+                                    <div className="main-content-body tab-pane p-sm-4 p-0 border-top-0">
+                                        <div className="p-4 text-center">
+                                            <div className="mb-4">
+                                                <i className="fe fe-shield text-success" style={{ fontSize: '3rem' }}></i>
+                                            </div>
+                                            <h4 className="tx-15 text-uppercase mb-3">Security Settings</h4>
+                                            <p className="text-muted mb-4">Manage your account security, password, and two-factor authentication settings</p>
+
+                                            <div className="row justify-content-center mb-4">
+                                                <div className="col-md-8">
+                                                    <div className="alert alert-info">
+                                                        <div className="d-flex align-items-center justify-content-between">
+                                                            <div>
+                                                                <strong>Security Status: </strong>
+                                                                <Badge variant={getAccountHealth().color} className="ms-2">
+                                                                    {getAccountHealth().level}
+                                                                </Badge>
+                                                            </div>
+                                                            <i className={`fe ${getAccountHealth().icon} fs-4`}></i>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <Button
+                                                variant="success"
+                                                size="lg"
+                                                onClick={() => setShow2FAModal(true)}
+                                                className="me-2"
+                                            >
+                                                <i className="fe fe-shield me-2"></i>
+                                                Security & 2FA Settings
+                                            </Button>
+                                            <Button
+                                                variant="outline-warning"
+                                                size="lg"
+                                                onClick={() => setShowProfileModal(true)}
+                                            >
+                                                <i className="fe fe-key me-2"></i>
+                                                Change Password
+                                            </Button>
+                                        </div>
+                                    </div>
+                                </Tab.Pane>
+
+                                <Tab.Pane eventKey="activity">
+                                    <div className="main-content-body tab-pane p-sm-4 p-0 border-top-0">
+                                        <div className="p-4">
+                                            <div className="text-center mb-4">
+                                                <i className="fe fe-activity text-primary" style={{ fontSize: '3rem' }}></i>
+                                                <h4 className="tx-15 text-uppercase mt-3 mb-3">Activity Overview</h4>
+                                                <p className="text-muted">
+                                                    Track your account activity and usage statistics
+                                                </p>
+                                            </div>
+
+                                            <div className="row text-center mb-4">
+                                                <div className="col-md-3">
+                                                    <div className="p-4 bg-primary-transparent rounded">
+                                                        <h3 className="text-primary mb-2">{currentUser.loginCount || 0}</h3>
+                                                        <p className="text-muted mb-0">Total Logins</p>
+                                                    </div>
+                                                </div>
+                                                <div className="col-md-3">
+                                                    <div className="p-4 bg-success-transparent rounded">
+                                                        <h3 className="text-success mb-2">
+                                                            {formatDate(currentUser.lastLogin) !== 'Not set'
+                                                                ? new Date(currentUser.lastLogin).toLocaleDateString()
+                                                                : 'Never'
+                                                            }
+                                                        </h3>
+                                                        <p className="text-muted mb-0">Last Login</p>
+                                                    </div>
+                                                </div>
+                                                <div className="col-md-3">
+                                                    <div className="p-4 bg-info-transparent rounded">
+                                                        <h3 className="text-info mb-2">
+                                                            {formatDate(currentUser.createdAt) !== 'Not set'
+                                                                ? new Date(currentUser.createdAt).toLocaleDateString()
+                                                                : 'Unknown'
+                                                            }
+                                                        </h3>
+                                                        <p className="text-muted mb-0">Member Since</p>
+                                                    </div>
+                                                </div>
+                                                <div className="col-md-3">
+                                                    <div className="p-4 bg-warning-transparent rounded">
+                                                        <h3 className="text-warning mb-2">{getTimeSinceCreated()}</h3>
+                                                        <p className="text-muted mb-0">Account Age</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div className="alert alert-light">
+                                                <div className="d-flex align-items-center">
+                                                    <i className="fe fe-info me-3 text-info"></i>
+                                                    <div>
+                                                        <strong>Activity Logging</strong>
+                                                        <p className="mb-0 text-muted">Detailed activity logging and audit trails will be implemented in a future update.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </Tab.Pane>
+                            </Tab.Content>
+                        </div>
+                    </Col>
+                </Row>
+            </Tab.Container>
+
+            {/* Modals */}
+            <ProfileModal
+                isOpen={showProfileModal}
+                onClose={() => setShowProfileModal(false)}
+                currentUser={currentUser}
+                onUserUpdate={handleProfileUpdate}
+            />
+
+            <TwoFactorModal
+                isOpen={show2FAModal}
+                onClose={() => setShow2FAModal(false)}
+                onUserUpdate={handleProfileUpdate}
+            />
+        </>
+    );
+};
+
+UserProfile.layout = "Contentlayout";
+
+export default withAuth(UserProfile);

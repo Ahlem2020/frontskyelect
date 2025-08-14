@@ -1,0 +1,8667 @@
+[
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcdd6"
+    },
+    "CreatedAt": "2025-08-02T08:00:00",
+    "UpdatedAt": "2025-08-02T08:00:00",
+    "OfficeId": 1,
+    "TotalVote": 34,
+    "From": "+2250707325741",
+    "CandidateId": 2
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcdd7"
+    },
+    "CreatedAt": "2025-08-02T08:00:00",
+    "UpdatedAt": "2025-08-02T08:01:00",
+    "OfficeId": 1,
+    "TotalVote": 179,
+    "From": "+2250707325741",
+    "CandidateId": 3
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcdd8"
+    },
+    "CreatedAt": "2025-08-02T08:01:00",
+    "UpdatedAt": "2025-08-02T08:01:00",
+    "OfficeId": 1,
+    "TotalVote": 67,
+    "From": "+2250707325741",
+    "CandidateId": 4
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcdd9"
+    },
+    "CreatedAt": "2025-08-02T08:02:00",
+    "UpdatedAt": "2025-08-02T08:02:00",
+    "OfficeId": 1,
+    "TotalVote": 89,
+    "From": "+2250707325741",
+    "CandidateId": 5
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcdda"
+    },
+    "CreatedAt": "2025-08-02T08:03:00",
+    "UpdatedAt": "2025-08-02T08:03:00",
+    "OfficeId": 1,
+    "TotalVote": 0,
+    "From": "+2250707325741",
+    "CandidateId": 6
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcddb"
+    },
+    "CreatedAt": "2025-08-02T08:03:00",
+    "UpdatedAt": "2025-08-02T08:04:00",
+    "OfficeId": 1,
+    "TotalVote": 0,
+    "From": "+2250707325741",
+    "CandidateId": 7
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcddc"
+    },
+    "CreatedAt": "2025-08-02T08:04:00",
+    "UpdatedAt": "2025-08-02T08:04:00",
+    "OfficeId": 1,
+    "TotalVote": 0,
+    "From": "+2250707325741",
+    "CandidateId": 8
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcddd"
+    },
+    "CreatedAt": "2025-08-02T08:05:00",
+    "UpdatedAt": "2025-08-02T08:05:00",
+    "OfficeId": 1,
+    "TotalVote": 8,
+    "From": "+2250707325741",
+    "CandidateId": 9
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcdde"
+    },
+    "CreatedAt": "2025-08-02T08:06:00",
+    "UpdatedAt": "2025-08-02T08:06:00",
+    "OfficeId": 1,
+    "TotalVote": 89,
+    "From": "+2250707325741",
+    "CandidateId": 10
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcddf"
+    },
+    "CreatedAt": "2025-08-02T08:06:00",
+    "UpdatedAt": "2025-08-02T08:07:00",
+    "OfficeId": 1,
+    "TotalVote": 79,
+    "From": "+2250707325741",
+    "CandidateId": 11
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcde0"
+    },
+    "CreatedAt": "2025-08-02T08:07:00",
+    "UpdatedAt": "2025-08-02T08:07:00",
+    "OfficeId": 1,
+    "TotalVote": 78,
+    "From": "+2250707325741",
+    "CandidateId": 12
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcde1"
+    },
+    "CreatedAt": "2025-08-02T08:08:00",
+    "UpdatedAt": "2025-08-02T08:08:00",
+    "OfficeId": 1,
+    "TotalVote": 888,
+    "From": "+2250707325741",
+    "CandidateId": 13
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcde2"
+    },
+    "CreatedAt": "2025-08-02T08:09:00",
+    "UpdatedAt": "2025-08-02T08:09:00",
+    "OfficeId": 1,
+    "TotalVote": 0,
+    "From": "+2250707325741",
+    "CandidateId": 14
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcde3"
+    },
+    "CreatedAt": "2025-08-02T08:09:00",
+    "UpdatedAt": "2025-08-02T08:10:00",
+    "OfficeId": 1,
+    "TotalVote": 0,
+    "From": "+2250707325741",
+    "CandidateId": 15
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcde4"
+    },
+    "CreatedAt": "2025-08-02T08:10:00",
+    "UpdatedAt": "2025-08-02T08:11:00",
+    "OfficeId": 1,
+    "TotalVote": 8,
+    "From": "+2250707325741",
+    "CandidateId": 16
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcde5"
+    },
+    "CreatedAt": "2025-08-02T08:11:00",
+    "UpdatedAt": "2025-08-02T08:11:00",
+    "OfficeId": 1,
+    "TotalVote": 66,
+    "From": "+2250707325741",
+    "CandidateId": 17
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcde6"
+    },
+    "CreatedAt": "2025-08-02T08:12:00",
+    "UpdatedAt": "2025-08-02T08:12:00",
+    "OfficeId": 1,
+    "TotalVote": 77,
+    "From": "+2250707325741",
+    "CandidateId": 18
+  },
+  {
+    "_id": {
+      "$oid": "64ea7b54961c06dc445fcde7"
+    },
+    "CreatedAt": "2025-08-02T08:12:00",
+    "UpdatedAt": "2025-08-02T08:13:00",
+    "OfficeId": 1,
+    "TotalVote": 55,
+    "From": "+2250707325741",
+    "CandidateId": 19
+  },
+  {
+    "_id": {
+      "$oid": "64ea9d03575bda5628398bac"
+    },
+    "CreatedAt": "2025-08-02T08:13:00",
+    "UpdatedAt": "2025-08-02T08:14:00",
+    "OfficeId": 670,
+    "CandidateId": 1,
+    "TotalVote": 54,
+    "From": "+2250768498465"
+  },
+  {
+    "_id": {
+      "$oid": "64ea9d03575bda5628398bad"
+    },
+    "CreatedAt": "2025-08-02T08:14:00",
+    "UpdatedAt": "2025-08-02T08:14:00",
+    "OfficeId": 670,
+    "CandidateId": 3,
+    "TotalVote": 109,
+    "From": "+2250768498465"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bae"
+    },
+    "CreatedAt": "2025-08-02T08:15:00",
+    "UpdatedAt": "2025-08-02T08:15:00",
+    "OfficeId": 4789,
+    "CandidateId": 1,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398baf"
+    },
+    "CreatedAt": "2025-08-02T08:15:00",
+    "UpdatedAt": "2025-08-02T08:16:00",
+    "OfficeId": 4789,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bb0"
+    },
+    "CreatedAt": "2025-08-02T08:16:00",
+    "UpdatedAt": "2025-08-02T08:17:00",
+    "OfficeId": 4789,
+    "CandidateId": 3,
+    "TotalVote": 100,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bb1"
+    },
+    "CreatedAt": "2025-08-02T08:17:00",
+    "UpdatedAt": "2025-08-02T08:17:00",
+    "OfficeId": 4789,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bb2"
+    },
+    "CreatedAt": "2025-08-02T08:18:00",
+    "UpdatedAt": "2025-08-02T08:18:00",
+    "OfficeId": 4789,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bb3"
+    },
+    "CreatedAt": "2025-08-02T08:19:00",
+    "UpdatedAt": "2025-08-02T08:19:00",
+    "OfficeId": 4789,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bb4"
+    },
+    "CreatedAt": "2025-08-02T08:19:00",
+    "UpdatedAt": "2025-08-02T08:20:00",
+    "OfficeId": 4789,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bb5"
+    },
+    "CreatedAt": "2025-08-02T08:20:00",
+    "UpdatedAt": "2025-08-02T08:20:00",
+    "OfficeId": 4789,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bb6"
+    },
+    "CreatedAt": "2025-08-02T08:21:00",
+    "UpdatedAt": "2025-08-02T08:21:00",
+    "OfficeId": 4789,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bb7"
+    },
+    "CreatedAt": "2025-08-02T08:22:00",
+    "UpdatedAt": "2025-08-02T08:22:00",
+    "OfficeId": 4789,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bb8"
+    },
+    "CreatedAt": "2025-08-02T08:22:00",
+    "UpdatedAt": "2025-08-02T08:23:00",
+    "OfficeId": 4789,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bb9"
+    },
+    "CreatedAt": "2025-08-02T08:23:00",
+    "UpdatedAt": "2025-08-02T08:23:00",
+    "OfficeId": 4789,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bba"
+    },
+    "CreatedAt": "2025-08-02T08:24:00",
+    "UpdatedAt": "2025-08-02T08:24:00",
+    "OfficeId": 4789,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bbb"
+    },
+    "CreatedAt": "2025-08-02T08:25:00",
+    "UpdatedAt": "2025-08-02T08:25:00",
+    "OfficeId": 4789,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bbc"
+    },
+    "CreatedAt": "2025-08-02T08:25:00",
+    "UpdatedAt": "2025-08-02T08:26:00",
+    "OfficeId": 4789,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bbd"
+    },
+    "CreatedAt": "2025-08-02T08:26:00",
+    "UpdatedAt": "2025-08-02T08:27:00",
+    "OfficeId": 4789,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bbe"
+    },
+    "CreatedAt": "2025-08-02T08:27:00",
+    "UpdatedAt": "2025-08-02T08:27:00",
+    "OfficeId": 4789,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bbf"
+    },
+    "CreatedAt": "2025-08-02T08:28:00",
+    "UpdatedAt": "2025-08-02T08:28:00",
+    "OfficeId": 4789,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eabfbc575bda5628398bc0"
+    },
+    "CreatedAt": "2025-08-02T08:28:00",
+    "UpdatedAt": "2025-08-02T08:29:00",
+    "OfficeId": 4789,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac099575bda5628398bc1"
+    },
+    "CreatedAt": "2025-08-02T08:29:00",
+    "UpdatedAt": "2025-08-02T08:30:00",
+    "OfficeId": 4796,
+    "CandidateId": 1,
+    "TotalVote": 3,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac099575bda5628398bc2"
+    },
+    "CreatedAt": "2025-08-02T08:30:00",
+    "UpdatedAt": "2025-08-02T08:30:00",
+    "OfficeId": 4796,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bc3"
+    },
+    "CreatedAt": "2025-08-02T08:31:00",
+    "UpdatedAt": "2025-08-02T08:31:00",
+    "OfficeId": 4796,
+    "CandidateId": 3,
+    "TotalVote": 95,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bc4"
+    },
+    "CreatedAt": "2025-08-02T08:31:00",
+    "UpdatedAt": "2025-08-02T08:32:00",
+    "OfficeId": 4796,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bc5"
+    },
+    "CreatedAt": "2025-08-02T08:32:00",
+    "UpdatedAt": "2025-08-02T08:33:00",
+    "OfficeId": 4796,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bc6"
+    },
+    "CreatedAt": "2025-08-02T08:33:00",
+    "UpdatedAt": "2025-08-02T08:33:00",
+    "OfficeId": 4796,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bc7"
+    },
+    "CreatedAt": "2025-08-02T08:34:00",
+    "UpdatedAt": "2025-08-02T08:34:00",
+    "OfficeId": 4796,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bc8"
+    },
+    "CreatedAt": "2025-08-02T08:35:00",
+    "UpdatedAt": "2025-08-02T08:35:00",
+    "OfficeId": 4796,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bc9"
+    },
+    "CreatedAt": "2025-08-02T08:35:00",
+    "UpdatedAt": "2025-08-02T08:36:00",
+    "OfficeId": 4796,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bca"
+    },
+    "CreatedAt": "2025-08-02T08:36:00",
+    "UpdatedAt": "2025-08-02T08:36:00",
+    "OfficeId": 4796,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bcb"
+    },
+    "CreatedAt": "2025-08-02T08:37:00",
+    "UpdatedAt": "2025-08-02T08:37:00",
+    "OfficeId": 4796,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bcc"
+    },
+    "CreatedAt": "2025-08-02T08:38:00",
+    "UpdatedAt": "2025-08-02T08:38:00",
+    "OfficeId": 4796,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bcd"
+    },
+    "CreatedAt": "2025-08-02T08:38:00",
+    "UpdatedAt": "2025-08-02T08:39:00",
+    "OfficeId": 4796,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bce"
+    },
+    "CreatedAt": "2025-08-02T08:39:00",
+    "UpdatedAt": "2025-08-02T08:39:00",
+    "OfficeId": 4796,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bcf"
+    },
+    "CreatedAt": "2025-08-02T08:40:00",
+    "UpdatedAt": "2025-08-02T08:40:00",
+    "OfficeId": 4796,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bd0"
+    },
+    "CreatedAt": "2025-08-02T08:41:00",
+    "UpdatedAt": "2025-08-02T08:41:00",
+    "OfficeId": 4796,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bd1"
+    },
+    "CreatedAt": "2025-08-02T08:41:00",
+    "UpdatedAt": "2025-08-02T08:42:00",
+    "OfficeId": 4796,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bd2"
+    },
+    "CreatedAt": "2025-08-02T08:42:00",
+    "UpdatedAt": "2025-08-02T08:43:00",
+    "OfficeId": 4796,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac09a575bda5628398bd3"
+    },
+    "CreatedAt": "2025-08-02T08:43:00",
+    "UpdatedAt": "2025-08-02T08:43:00",
+    "OfficeId": 4796,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398bd4"
+    },
+    "CreatedAt": "2025-08-02T08:44:00",
+    "UpdatedAt": "2025-08-02T08:44:00",
+    "OfficeId": 4782,
+    "CandidateId": 1,
+    "TotalVote": 7,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398bd5"
+    },
+    "CreatedAt": "2025-08-02T08:44:00",
+    "UpdatedAt": "2025-08-02T08:45:00",
+    "OfficeId": 4782,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398bd6"
+    },
+    "CreatedAt": "2025-08-02T08:45:00",
+    "UpdatedAt": "2025-08-02T08:46:00",
+    "OfficeId": 4782,
+    "CandidateId": 3,
+    "TotalVote": 92,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398bd7"
+    },
+    "CreatedAt": "2025-08-02T08:46:00",
+    "UpdatedAt": "2025-08-02T08:46:00",
+    "OfficeId": 4782,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398bd8"
+    },
+    "CreatedAt": "2025-08-02T08:47:00",
+    "UpdatedAt": "2025-08-02T08:47:00",
+    "OfficeId": 4782,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398bd9"
+    },
+    "CreatedAt": "2025-08-02T08:47:00",
+    "UpdatedAt": "2025-08-02T08:48:00",
+    "OfficeId": 4782,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398bda"
+    },
+    "CreatedAt": "2025-08-02T08:48:00",
+    "UpdatedAt": "2025-08-02T08:49:00",
+    "OfficeId": 4782,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398bdb"
+    },
+    "CreatedAt": "2025-08-02T08:49:00",
+    "UpdatedAt": "2025-08-02T08:49:00",
+    "OfficeId": 4782,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398bdc"
+    },
+    "CreatedAt": "2025-08-02T08:50:00",
+    "UpdatedAt": "2025-08-02T08:50:00",
+    "OfficeId": 4782,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398bdd"
+    },
+    "CreatedAt": "2025-08-02T08:51:00",
+    "UpdatedAt": "2025-08-02T08:51:00",
+    "OfficeId": 4782,
+    "CandidateId": 10,
+    "TotalVote": 1,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398bde"
+    },
+    "CreatedAt": "2025-08-02T08:51:00",
+    "UpdatedAt": "2025-08-02T08:52:00",
+    "OfficeId": 4782,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398bdf"
+    },
+    "CreatedAt": "2025-08-02T08:52:00",
+    "UpdatedAt": "2025-08-02T08:52:00",
+    "OfficeId": 4782,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398be0"
+    },
+    "CreatedAt": "2025-08-02T08:53:00",
+    "UpdatedAt": "2025-08-02T08:53:00",
+    "OfficeId": 4782,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398be1"
+    },
+    "CreatedAt": "2025-08-02T08:54:00",
+    "UpdatedAt": "2025-08-02T08:54:00",
+    "OfficeId": 4782,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398be2"
+    },
+    "CreatedAt": "2025-08-02T08:54:00",
+    "UpdatedAt": "2025-08-02T08:55:00",
+    "OfficeId": 4782,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398be3"
+    },
+    "CreatedAt": "2025-08-02T08:55:00",
+    "UpdatedAt": "2025-08-02T08:55:00",
+    "OfficeId": 4782,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398be4"
+    },
+    "CreatedAt": "2025-08-02T08:56:00",
+    "UpdatedAt": "2025-08-02T08:56:00",
+    "OfficeId": 4782,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398be5"
+    },
+    "CreatedAt": "2025-08-02T08:57:00",
+    "UpdatedAt": "2025-08-02T08:57:00",
+    "OfficeId": 4782,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac17d575bda5628398be6"
+    },
+    "CreatedAt": "2025-08-02T08:57:00",
+    "UpdatedAt": "2025-08-02T08:58:00",
+    "OfficeId": 4782,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398be7"
+    },
+    "CreatedAt": "2025-08-02T08:58:00",
+    "UpdatedAt": "2025-08-02T08:59:00",
+    "OfficeId": 4781,
+    "CandidateId": 1,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398be8"
+    },
+    "CreatedAt": "2025-08-02T08:59:00",
+    "UpdatedAt": "2025-08-02T08:59:00",
+    "OfficeId": 4781,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398be9"
+    },
+    "CreatedAt": "2025-08-02T09:00:00",
+    "UpdatedAt": "2025-08-02T09:00:00",
+    "OfficeId": 4781,
+    "CandidateId": 3,
+    "TotalVote": 100,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398bea"
+    },
+    "CreatedAt": "2025-08-02T09:00:00",
+    "UpdatedAt": "2025-08-02T09:01:00",
+    "OfficeId": 4781,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398beb"
+    },
+    "CreatedAt": "2025-08-02T09:01:00",
+    "UpdatedAt": "2025-08-02T09:02:00",
+    "OfficeId": 4781,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398bec"
+    },
+    "CreatedAt": "2025-08-02T09:02:00",
+    "UpdatedAt": "2025-08-02T09:02:00",
+    "OfficeId": 4781,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398bed"
+    },
+    "CreatedAt": "2025-08-02T09:03:00",
+    "UpdatedAt": "2025-08-02T09:03:00",
+    "OfficeId": 4781,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398bee"
+    },
+    "CreatedAt": "2025-08-02T09:03:00",
+    "UpdatedAt": "2025-08-02T09:04:00",
+    "OfficeId": 4781,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398bef"
+    },
+    "CreatedAt": "2025-08-02T09:04:00",
+    "UpdatedAt": "2025-08-02T09:05:00",
+    "OfficeId": 4781,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398bf0"
+    },
+    "CreatedAt": "2025-08-02T09:05:00",
+    "UpdatedAt": "2025-08-02T09:05:00",
+    "OfficeId": 4781,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398bf1"
+    },
+    "CreatedAt": "2025-08-02T09:06:00",
+    "UpdatedAt": "2025-08-02T09:06:00",
+    "OfficeId": 4781,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398bf2"
+    },
+    "CreatedAt": "2025-08-02T09:07:00",
+    "UpdatedAt": "2025-08-02T09:07:00",
+    "OfficeId": 4781,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398bf3"
+    },
+    "CreatedAt": "2025-08-02T09:07:00",
+    "UpdatedAt": "2025-08-02T09:08:00",
+    "OfficeId": 4781,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398bf4"
+    },
+    "CreatedAt": "2025-08-02T09:08:00",
+    "UpdatedAt": "2025-08-02T09:08:00",
+    "OfficeId": 4781,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398bf5"
+    },
+    "CreatedAt": "2025-08-02T09:09:00",
+    "UpdatedAt": "2025-08-02T09:09:00",
+    "OfficeId": 4781,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398bf6"
+    },
+    "CreatedAt": "2025-08-02T09:10:00",
+    "UpdatedAt": "2025-08-02T09:10:00",
+    "OfficeId": 4781,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398bf7"
+    },
+    "CreatedAt": "2025-08-02T09:10:00",
+    "UpdatedAt": "2025-08-02T09:11:00",
+    "OfficeId": 4781,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398bf8"
+    },
+    "CreatedAt": "2025-08-02T09:11:00",
+    "UpdatedAt": "2025-08-02T09:11:00",
+    "OfficeId": 4781,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac202575bda5628398bf9"
+    },
+    "CreatedAt": "2025-08-02T09:12:00",
+    "UpdatedAt": "2025-08-02T09:12:00",
+    "OfficeId": 4781,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398bfa"
+    },
+    "CreatedAt": "2025-08-02T09:13:00",
+    "UpdatedAt": "2025-08-02T09:13:00",
+    "OfficeId": 4792,
+    "CandidateId": 1,
+    "TotalVote": 3,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398bfb"
+    },
+    "CreatedAt": "2025-08-02T09:13:00",
+    "UpdatedAt": "2025-08-02T09:14:00",
+    "OfficeId": 4792,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398bfc"
+    },
+    "CreatedAt": "2025-08-02T09:14:00",
+    "UpdatedAt": "2025-08-02T09:15:00",
+    "OfficeId": 4792,
+    "CandidateId": 3,
+    "TotalVote": 97,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398bfd"
+    },
+    "CreatedAt": "2025-08-02T09:15:00",
+    "UpdatedAt": "2025-08-02T09:15:00",
+    "OfficeId": 4792,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398bfe"
+    },
+    "CreatedAt": "2025-08-02T09:16:00",
+    "UpdatedAt": "2025-08-02T09:16:00",
+    "OfficeId": 4792,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398bff"
+    },
+    "CreatedAt": "2025-08-02T09:16:00",
+    "UpdatedAt": "2025-08-02T09:17:00",
+    "OfficeId": 4792,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398c00"
+    },
+    "CreatedAt": "2025-08-02T09:17:00",
+    "UpdatedAt": "2025-08-02T09:18:00",
+    "OfficeId": 4792,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398c01"
+    },
+    "CreatedAt": "2025-08-02T09:18:00",
+    "UpdatedAt": "2025-08-02T09:18:00",
+    "OfficeId": 4792,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398c02"
+    },
+    "CreatedAt": "2025-08-02T09:19:00",
+    "UpdatedAt": "2025-08-02T09:19:00",
+    "OfficeId": 4792,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398c03"
+    },
+    "CreatedAt": "2025-08-02T09:19:00",
+    "UpdatedAt": "2025-08-02T09:20:00",
+    "OfficeId": 4792,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398c04"
+    },
+    "CreatedAt": "2025-08-02T09:20:00",
+    "UpdatedAt": "2025-08-02T09:21:00",
+    "OfficeId": 4792,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398c05"
+    },
+    "CreatedAt": "2025-08-02T09:21:00",
+    "UpdatedAt": "2025-08-02T09:21:00",
+    "OfficeId": 4792,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398c06"
+    },
+    "CreatedAt": "2025-08-02T09:22:00",
+    "UpdatedAt": "2025-08-02T09:22:00",
+    "OfficeId": 4792,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398c07"
+    },
+    "CreatedAt": "2025-08-02T09:22:00",
+    "UpdatedAt": "2025-08-02T09:23:00",
+    "OfficeId": 4792,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398c08"
+    },
+    "CreatedAt": "2025-08-02T09:23:00",
+    "UpdatedAt": "2025-08-02T09:24:00",
+    "OfficeId": 4792,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398c09"
+    },
+    "CreatedAt": "2025-08-02T09:24:00",
+    "UpdatedAt": "2025-08-02T09:24:00",
+    "OfficeId": 4792,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398c0a"
+    },
+    "CreatedAt": "2025-08-02T09:25:00",
+    "UpdatedAt": "2025-08-02T09:25:00",
+    "OfficeId": 4792,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398c0b"
+    },
+    "CreatedAt": "2025-08-02T09:26:00",
+    "UpdatedAt": "2025-08-02T09:26:00",
+    "OfficeId": 4792,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac2ad575bda5628398c0c"
+    },
+    "CreatedAt": "2025-08-02T09:26:00",
+    "UpdatedAt": "2025-08-02T09:27:00",
+    "OfficeId": 4792,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250759563111"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c0d"
+    },
+    "CreatedAt": "2025-08-02T09:27:00",
+    "UpdatedAt": "2025-08-02T09:27:00",
+    "OfficeId": 4740,
+    "CandidateId": 1,
+    "TotalVote": 17,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c0e"
+    },
+    "CreatedAt": "2025-08-02T09:28:00",
+    "UpdatedAt": "2025-08-02T09:28:00",
+    "OfficeId": 4740,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c0f"
+    },
+    "CreatedAt": "2025-08-02T09:29:00",
+    "UpdatedAt": "2025-08-02T09:29:00",
+    "OfficeId": 4740,
+    "CandidateId": 3,
+    "TotalVote": 83,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c10"
+    },
+    "CreatedAt": "2025-08-02T09:29:00",
+    "UpdatedAt": "2025-08-02T09:30:00",
+    "OfficeId": 4740,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c11"
+    },
+    "CreatedAt": "2025-08-02T09:30:00",
+    "UpdatedAt": "2025-08-02T09:30:00",
+    "OfficeId": 4740,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c12"
+    },
+    "CreatedAt": "2025-08-02T09:31:00",
+    "UpdatedAt": "2025-08-02T09:31:00",
+    "OfficeId": 4740,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c13"
+    },
+    "CreatedAt": "2025-08-02T09:32:00",
+    "UpdatedAt": "2025-08-02T09:32:00",
+    "OfficeId": 4740,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c14"
+    },
+    "CreatedAt": "2025-08-02T09:32:00",
+    "UpdatedAt": "2025-08-02T09:33:00",
+    "OfficeId": 4740,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c15"
+    },
+    "CreatedAt": "2025-08-02T09:33:00",
+    "UpdatedAt": "2025-08-02T09:34:00",
+    "OfficeId": 4740,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c16"
+    },
+    "CreatedAt": "2025-08-02T09:34:00",
+    "UpdatedAt": "2025-08-02T09:34:00",
+    "OfficeId": 4740,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c17"
+    },
+    "CreatedAt": "2025-08-02T09:35:00",
+    "UpdatedAt": "2025-08-02T09:35:00",
+    "OfficeId": 4740,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c18"
+    },
+    "CreatedAt": "2025-08-02T09:35:00",
+    "UpdatedAt": "2025-08-02T09:36:00",
+    "OfficeId": 4740,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c19"
+    },
+    "CreatedAt": "2025-08-02T09:36:00",
+    "UpdatedAt": "2025-08-02T09:37:00",
+    "OfficeId": 4740,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c1a"
+    },
+    "CreatedAt": "2025-08-02T09:37:00",
+    "UpdatedAt": "2025-08-02T09:37:00",
+    "OfficeId": 4740,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c1b"
+    },
+    "CreatedAt": "2025-08-02T09:38:00",
+    "UpdatedAt": "2025-08-02T09:38:00",
+    "OfficeId": 4740,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c1c"
+    },
+    "CreatedAt": "2025-08-02T09:38:00",
+    "UpdatedAt": "2025-08-02T09:39:00",
+    "OfficeId": 4740,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c1d"
+    },
+    "CreatedAt": "2025-08-02T09:39:00",
+    "UpdatedAt": "2025-08-02T09:40:00",
+    "OfficeId": 4740,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c1e"
+    },
+    "CreatedAt": "2025-08-02T09:40:00",
+    "UpdatedAt": "2025-08-02T09:40:00",
+    "OfficeId": 4740,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac3bf575bda5628398c1f"
+    },
+    "CreatedAt": "2025-08-02T09:41:00",
+    "UpdatedAt": "2025-08-02T09:41:00",
+    "OfficeId": 4740,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c20"
+    },
+    "CreatedAt": "2025-08-02T09:42:00",
+    "UpdatedAt": "2025-08-02T09:42:00",
+    "OfficeId": 4728,
+    "CandidateId": 1,
+    "TotalVote": 8,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c21"
+    },
+    "CreatedAt": "2025-08-02T09:42:00",
+    "UpdatedAt": "2025-08-02T09:43:00",
+    "OfficeId": 4728,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c22"
+    },
+    "CreatedAt": "2025-08-02T09:43:00",
+    "UpdatedAt": "2025-08-02T09:43:00",
+    "OfficeId": 4728,
+    "CandidateId": 3,
+    "TotalVote": 92,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c23"
+    },
+    "CreatedAt": "2025-08-02T09:44:00",
+    "UpdatedAt": "2025-08-02T09:44:00",
+    "OfficeId": 4728,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c24"
+    },
+    "CreatedAt": "2025-08-02T09:45:00",
+    "UpdatedAt": "2025-08-02T09:45:00",
+    "OfficeId": 4728,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c25"
+    },
+    "CreatedAt": "2025-08-02T09:45:00",
+    "UpdatedAt": "2025-08-02T09:46:00",
+    "OfficeId": 4728,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c26"
+    },
+    "CreatedAt": "2025-08-02T09:46:00",
+    "UpdatedAt": "2025-08-02T09:46:00",
+    "OfficeId": 4728,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c27"
+    },
+    "CreatedAt": "2025-08-02T09:47:00",
+    "UpdatedAt": "2025-08-02T09:47:00",
+    "OfficeId": 4728,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c28"
+    },
+    "CreatedAt": "2025-08-02T09:48:00",
+    "UpdatedAt": "2025-08-02T09:48:00",
+    "OfficeId": 4728,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c29"
+    },
+    "CreatedAt": "2025-08-02T09:48:00",
+    "UpdatedAt": "2025-08-02T09:49:00",
+    "OfficeId": 4728,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c2a"
+    },
+    "CreatedAt": "2025-08-02T09:49:00",
+    "UpdatedAt": "2025-08-02T09:50:00",
+    "OfficeId": 4728,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c2b"
+    },
+    "CreatedAt": "2025-08-02T09:50:00",
+    "UpdatedAt": "2025-08-02T09:50:00",
+    "OfficeId": 4728,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c2c"
+    },
+    "CreatedAt": "2025-08-02T09:51:00",
+    "UpdatedAt": "2025-08-02T09:51:00",
+    "OfficeId": 4728,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c2d"
+    },
+    "CreatedAt": "2025-08-02T09:51:00",
+    "UpdatedAt": "2025-08-02T09:52:00",
+    "OfficeId": 4728,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c2e"
+    },
+    "CreatedAt": "2025-08-02T09:52:00",
+    "UpdatedAt": "2025-08-02T09:53:00",
+    "OfficeId": 4728,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c2f"
+    },
+    "CreatedAt": "2025-08-02T09:53:00",
+    "UpdatedAt": "2025-08-02T09:53:00",
+    "OfficeId": 4728,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c30"
+    },
+    "CreatedAt": "2025-08-02T09:54:00",
+    "UpdatedAt": "2025-08-02T09:54:00",
+    "OfficeId": 4728,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c31"
+    },
+    "CreatedAt": "2025-08-02T09:54:00",
+    "UpdatedAt": "2025-08-02T09:55:00",
+    "OfficeId": 4728,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac47a575bda5628398c32"
+    },
+    "CreatedAt": "2025-08-02T09:55:00",
+    "UpdatedAt": "2025-08-02T09:56:00",
+    "OfficeId": 4728,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c33"
+    },
+    "CreatedAt": "2025-08-02T09:56:00",
+    "UpdatedAt": "2025-08-02T09:56:00",
+    "OfficeId": 4762,
+    "CandidateId": 1,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c34"
+    },
+    "CreatedAt": "2025-08-02T09:57:00",
+    "UpdatedAt": "2025-08-02T09:57:00",
+    "OfficeId": 4762,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c35"
+    },
+    "CreatedAt": "2025-08-02T09:58:00",
+    "UpdatedAt": "2025-08-02T09:58:00",
+    "OfficeId": 4762,
+    "CandidateId": 3,
+    "TotalVote": 100,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c36"
+    },
+    "CreatedAt": "2025-08-02T09:58:00",
+    "UpdatedAt": "2025-08-02T09:59:00",
+    "OfficeId": 4762,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c37"
+    },
+    "CreatedAt": "2025-08-02T09:59:00",
+    "UpdatedAt": "2025-08-02T09:59:00",
+    "OfficeId": 4762,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c38"
+    },
+    "CreatedAt": "2025-08-02T10:00:00",
+    "UpdatedAt": "2025-08-02T10:00:00",
+    "OfficeId": 4762,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c39"
+    },
+    "CreatedAt": "2025-08-02T10:01:00",
+    "UpdatedAt": "2025-08-02T10:01:00",
+    "OfficeId": 4762,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c3a"
+    },
+    "CreatedAt": "2025-08-02T10:01:00",
+    "UpdatedAt": "2025-08-02T10:02:00",
+    "OfficeId": 4762,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c3b"
+    },
+    "CreatedAt": "2025-08-02T10:02:00",
+    "UpdatedAt": "2025-08-02T10:02:00",
+    "OfficeId": 4762,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c3c"
+    },
+    "CreatedAt": "2025-08-02T10:03:00",
+    "UpdatedAt": "2025-08-02T10:03:00",
+    "OfficeId": 4762,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c3d"
+    },
+    "CreatedAt": "2025-08-02T10:04:00",
+    "UpdatedAt": "2025-08-02T10:04:00",
+    "OfficeId": 4762,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c3e"
+    },
+    "CreatedAt": "2025-08-02T10:04:00",
+    "UpdatedAt": "2025-08-02T10:05:00",
+    "OfficeId": 4762,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c3f"
+    },
+    "CreatedAt": "2025-08-02T10:05:00",
+    "UpdatedAt": "2025-08-02T10:06:00",
+    "OfficeId": 4762,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c40"
+    },
+    "CreatedAt": "2025-08-02T10:06:00",
+    "UpdatedAt": "2025-08-02T10:06:00",
+    "OfficeId": 4762,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c41"
+    },
+    "CreatedAt": "2025-08-02T10:07:00",
+    "UpdatedAt": "2025-08-02T10:07:00",
+    "OfficeId": 4762,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c42"
+    },
+    "CreatedAt": "2025-08-02T10:07:00",
+    "UpdatedAt": "2025-08-02T10:08:00",
+    "OfficeId": 4762,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c43"
+    },
+    "CreatedAt": "2025-08-02T10:08:00",
+    "UpdatedAt": "2025-08-02T10:09:00",
+    "OfficeId": 4762,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c44"
+    },
+    "CreatedAt": "2025-08-02T10:09:00",
+    "UpdatedAt": "2025-08-02T10:09:00",
+    "OfficeId": 4762,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac568575bda5628398c45"
+    },
+    "CreatedAt": "2025-08-02T10:10:00",
+    "UpdatedAt": "2025-08-02T10:10:00",
+    "OfficeId": 4762,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c46"
+    },
+    "CreatedAt": "2025-08-02T10:10:00",
+    "UpdatedAt": "2025-08-02T10:11:00",
+    "OfficeId": 4221,
+    "CandidateId": 1,
+    "TotalVote": 46,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c47"
+    },
+    "CreatedAt": "2025-08-02T10:11:00",
+    "UpdatedAt": "2025-08-02T10:12:00",
+    "OfficeId": 4221,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c48"
+    },
+    "CreatedAt": "2025-08-02T10:12:00",
+    "UpdatedAt": "2025-08-02T10:12:00",
+    "OfficeId": 4221,
+    "CandidateId": 3,
+    "TotalVote": 54,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c49"
+    },
+    "CreatedAt": "2025-08-02T10:13:00",
+    "UpdatedAt": "2025-08-02T10:13:00",
+    "OfficeId": 4221,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c4a"
+    },
+    "CreatedAt": "2025-08-02T10:14:00",
+    "UpdatedAt": "2025-08-02T10:14:00",
+    "OfficeId": 4221,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c4b"
+    },
+    "CreatedAt": "2025-08-02T10:14:00",
+    "UpdatedAt": "2025-08-02T10:15:00",
+    "OfficeId": 4221,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c4c"
+    },
+    "CreatedAt": "2025-08-02T10:15:00",
+    "UpdatedAt": "2025-08-02T10:15:00",
+    "OfficeId": 4221,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c4d"
+    },
+    "CreatedAt": "2025-08-02T10:16:00",
+    "UpdatedAt": "2025-08-02T10:16:00",
+    "OfficeId": 4221,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c4e"
+    },
+    "CreatedAt": "2025-08-02T10:17:00",
+    "UpdatedAt": "2025-08-02T10:17:00",
+    "OfficeId": 4221,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c4f"
+    },
+    "CreatedAt": "2025-08-02T10:17:00",
+    "UpdatedAt": "2025-08-02T10:18:00",
+    "OfficeId": 4221,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c50"
+    },
+    "CreatedAt": "2025-08-02T10:18:00",
+    "UpdatedAt": "2025-08-02T10:18:00",
+    "OfficeId": 4221,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c51"
+    },
+    "CreatedAt": "2025-08-02T10:19:00",
+    "UpdatedAt": "2025-08-02T10:19:00",
+    "OfficeId": 4221,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c52"
+    },
+    "CreatedAt": "2025-08-02T10:20:00",
+    "UpdatedAt": "2025-08-02T10:20:00",
+    "OfficeId": 4221,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c53"
+    },
+    "CreatedAt": "2025-08-02T10:20:00",
+    "UpdatedAt": "2025-08-02T10:21:00",
+    "OfficeId": 4221,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c54"
+    },
+    "CreatedAt": "2025-08-02T10:21:00",
+    "UpdatedAt": "2025-08-02T10:22:00",
+    "OfficeId": 4221,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c55"
+    },
+    "CreatedAt": "2025-08-02T10:22:00",
+    "UpdatedAt": "2025-08-02T10:22:00",
+    "OfficeId": 4221,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c56"
+    },
+    "CreatedAt": "2025-08-02T10:23:00",
+    "UpdatedAt": "2025-08-02T10:23:00",
+    "OfficeId": 4221,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c57"
+    },
+    "CreatedAt": "2025-08-02T10:23:00",
+    "UpdatedAt": "2025-08-02T10:24:00",
+    "OfficeId": 4221,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac657575bda5628398c58"
+    },
+    "CreatedAt": "2025-08-02T10:24:00",
+    "UpdatedAt": "2025-08-02T10:25:00",
+    "OfficeId": 4221,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250711688546"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c59"
+    },
+    "CreatedAt": "2025-08-02T10:25:00",
+    "UpdatedAt": "2025-08-02T10:25:00",
+    "OfficeId": 3856,
+    "CandidateId": 1,
+    "TotalVote": 29,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c5a"
+    },
+    "CreatedAt": "2025-08-02T10:26:00",
+    "UpdatedAt": "2025-08-02T10:26:00",
+    "OfficeId": 3856,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c5b"
+    },
+    "CreatedAt": "2025-08-02T10:26:00",
+    "UpdatedAt": "2025-08-02T10:27:00",
+    "OfficeId": 3856,
+    "CandidateId": 3,
+    "TotalVote": 98,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c5c"
+    },
+    "CreatedAt": "2025-08-02T10:27:00",
+    "UpdatedAt": "2025-08-02T10:28:00",
+    "OfficeId": 3856,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c5d"
+    },
+    "CreatedAt": "2025-08-02T10:28:00",
+    "UpdatedAt": "2025-08-02T10:28:00",
+    "OfficeId": 3856,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c5e"
+    },
+    "CreatedAt": "2025-08-02T10:29:00",
+    "UpdatedAt": "2025-08-02T10:29:00",
+    "OfficeId": 3856,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c5f"
+    },
+    "CreatedAt": "2025-08-02T10:30:00",
+    "UpdatedAt": "2025-08-02T10:30:00",
+    "OfficeId": 3856,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c60"
+    },
+    "CreatedAt": "2025-08-02T10:30:00",
+    "UpdatedAt": "2025-08-02T10:31:00",
+    "OfficeId": 3856,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c61"
+    },
+    "CreatedAt": "2025-08-02T10:31:00",
+    "UpdatedAt": "2025-08-02T10:31:00",
+    "OfficeId": 3856,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c62"
+    },
+    "CreatedAt": "2025-08-02T10:32:00",
+    "UpdatedAt": "2025-08-02T10:32:00",
+    "OfficeId": 3856,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c63"
+    },
+    "CreatedAt": "2025-08-02T10:33:00",
+    "UpdatedAt": "2025-08-02T10:33:00",
+    "OfficeId": 3856,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c64"
+    },
+    "CreatedAt": "2025-08-02T10:33:00",
+    "UpdatedAt": "2025-08-02T10:34:00",
+    "OfficeId": 3856,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c65"
+    },
+    "CreatedAt": "2025-08-02T10:34:00",
+    "UpdatedAt": "2025-08-02T10:34:00",
+    "OfficeId": 3856,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c66"
+    },
+    "CreatedAt": "2025-08-02T10:35:00",
+    "UpdatedAt": "2025-08-02T10:35:00",
+    "OfficeId": 3856,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c67"
+    },
+    "CreatedAt": "2025-08-02T10:36:00",
+    "UpdatedAt": "2025-08-02T10:36:00",
+    "OfficeId": 3856,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c68"
+    },
+    "CreatedAt": "2025-08-02T10:36:00",
+    "UpdatedAt": "2025-08-02T10:37:00",
+    "OfficeId": 3856,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c69"
+    },
+    "CreatedAt": "2025-08-02T10:37:00",
+    "UpdatedAt": "2025-08-02T10:37:00",
+    "OfficeId": 3856,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c6a"
+    },
+    "CreatedAt": "2025-08-02T10:38:00",
+    "UpdatedAt": "2025-08-02T10:38:00",
+    "OfficeId": 3856,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac7e2575bda5628398c6b"
+    },
+    "CreatedAt": "2025-08-02T10:39:00",
+    "UpdatedAt": "2025-08-02T10:39:00",
+    "OfficeId": 3856,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c6c"
+    },
+    "CreatedAt": "2025-08-02T10:39:00",
+    "UpdatedAt": "2025-08-02T10:40:00",
+    "OfficeId": 3849,
+    "CandidateId": 1,
+    "TotalVote": 33,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c6d"
+    },
+    "CreatedAt": "2025-08-02T10:40:00",
+    "UpdatedAt": "2025-08-02T10:41:00",
+    "OfficeId": 3849,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c6e"
+    },
+    "CreatedAt": "2025-08-02T10:41:00",
+    "UpdatedAt": "2025-08-02T10:41:00",
+    "OfficeId": 3849,
+    "CandidateId": 3,
+    "TotalVote": 79,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c6f"
+    },
+    "CreatedAt": "2025-08-02T10:42:00",
+    "UpdatedAt": "2025-08-02T10:42:00",
+    "OfficeId": 3849,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c70"
+    },
+    "CreatedAt": "2025-08-02T10:42:00",
+    "UpdatedAt": "2025-08-02T10:43:00",
+    "OfficeId": 3849,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c71"
+    },
+    "CreatedAt": "2025-08-02T10:43:00",
+    "UpdatedAt": "2025-08-02T10:44:00",
+    "OfficeId": 3849,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c72"
+    },
+    "CreatedAt": "2025-08-02T10:44:00",
+    "UpdatedAt": "2025-08-02T10:44:00",
+    "OfficeId": 3849,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c73"
+    },
+    "CreatedAt": "2025-08-02T10:45:00",
+    "UpdatedAt": "2025-08-02T10:45:00",
+    "OfficeId": 3849,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c74"
+    },
+    "CreatedAt": "2025-08-02T10:45:00",
+    "UpdatedAt": "2025-08-02T10:46:00",
+    "OfficeId": 3849,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c75"
+    },
+    "CreatedAt": "2025-08-02T10:46:00",
+    "UpdatedAt": "2025-08-02T10:47:00",
+    "OfficeId": 3849,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c76"
+    },
+    "CreatedAt": "2025-08-02T10:47:00",
+    "UpdatedAt": "2025-08-02T10:47:00",
+    "OfficeId": 3849,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c77"
+    },
+    "CreatedAt": "2025-08-02T10:48:00",
+    "UpdatedAt": "2025-08-02T10:48:00",
+    "OfficeId": 3849,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c78"
+    },
+    "CreatedAt": "2025-08-02T10:49:00",
+    "UpdatedAt": "2025-08-02T10:49:00",
+    "OfficeId": 3849,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c79"
+    },
+    "CreatedAt": "2025-08-02T10:49:00",
+    "UpdatedAt": "2025-08-02T10:50:00",
+    "OfficeId": 3849,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c7a"
+    },
+    "CreatedAt": "2025-08-02T10:50:00",
+    "UpdatedAt": "2025-08-02T10:50:00",
+    "OfficeId": 3849,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c7b"
+    },
+    "CreatedAt": "2025-08-02T10:51:00",
+    "UpdatedAt": "2025-08-02T10:51:00",
+    "OfficeId": 3849,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c7c"
+    },
+    "CreatedAt": "2025-08-02T10:52:00",
+    "UpdatedAt": "2025-08-02T10:52:00",
+    "OfficeId": 3849,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c7d"
+    },
+    "CreatedAt": "2025-08-02T10:52:00",
+    "UpdatedAt": "2025-08-02T10:53:00",
+    "OfficeId": 3849,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac922575bda5628398c7e"
+    },
+    "CreatedAt": "2025-08-02T10:53:00",
+    "UpdatedAt": "2025-08-02T10:53:00",
+    "OfficeId": 3849,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c7f"
+    },
+    "CreatedAt": "2025-08-02T10:54:00",
+    "UpdatedAt": "2025-08-02T10:54:00",
+    "OfficeId": 3964,
+    "CandidateId": 1,
+    "TotalVote": 36,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c80"
+    },
+    "CreatedAt": "2025-08-02T10:55:00",
+    "UpdatedAt": "2025-08-02T10:55:00",
+    "OfficeId": 3964,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c81"
+    },
+    "CreatedAt": "2025-08-02T10:55:00",
+    "UpdatedAt": "2025-08-02T10:56:00",
+    "OfficeId": 3964,
+    "CandidateId": 3,
+    "TotalVote": 112,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c82"
+    },
+    "CreatedAt": "2025-08-02T10:56:00",
+    "UpdatedAt": "2025-08-02T10:57:00",
+    "OfficeId": 3964,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c83"
+    },
+    "CreatedAt": "2025-08-02T10:57:00",
+    "UpdatedAt": "2025-08-02T10:57:00",
+    "OfficeId": 3964,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c84"
+    },
+    "CreatedAt": "2025-08-02T10:58:00",
+    "UpdatedAt": "2025-08-02T10:58:00",
+    "OfficeId": 3964,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c85"
+    },
+    "CreatedAt": "2025-08-02T10:58:00",
+    "UpdatedAt": "2025-08-02T10:59:00",
+    "OfficeId": 3964,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c86"
+    },
+    "CreatedAt": "2025-08-02T10:59:00",
+    "UpdatedAt": "2025-08-02T11:00:00",
+    "OfficeId": 3964,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c87"
+    },
+    "CreatedAt": "2025-08-02T11:00:00",
+    "UpdatedAt": "2025-08-02T11:00:00",
+    "OfficeId": 3964,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c88"
+    },
+    "CreatedAt": "2025-08-02T11:01:00",
+    "UpdatedAt": "2025-08-02T11:01:00",
+    "OfficeId": 3964,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c89"
+    },
+    "CreatedAt": "2025-08-02T11:01:00",
+    "UpdatedAt": "2025-08-02T11:02:00",
+    "OfficeId": 3964,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c8a"
+    },
+    "CreatedAt": "2025-08-02T11:02:00",
+    "UpdatedAt": "2025-08-02T11:03:00",
+    "OfficeId": 3964,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c8b"
+    },
+    "CreatedAt": "2025-08-02T11:03:00",
+    "UpdatedAt": "2025-08-02T11:03:00",
+    "OfficeId": 3964,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c8c"
+    },
+    "CreatedAt": "2025-08-02T11:04:00",
+    "UpdatedAt": "2025-08-02T11:04:00",
+    "OfficeId": 3964,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c8d"
+    },
+    "CreatedAt": "2025-08-02T11:05:00",
+    "UpdatedAt": "2025-08-02T11:05:00",
+    "OfficeId": 3964,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c8e"
+    },
+    "CreatedAt": "2025-08-02T11:05:00",
+    "UpdatedAt": "2025-08-02T11:06:00",
+    "OfficeId": 3964,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c8f"
+    },
+    "CreatedAt": "2025-08-02T11:06:00",
+    "UpdatedAt": "2025-08-02T11:06:00",
+    "OfficeId": 3964,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c90"
+    },
+    "CreatedAt": "2025-08-02T11:07:00",
+    "UpdatedAt": "2025-08-02T11:07:00",
+    "OfficeId": 3964,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eac9d8575bda5628398c91"
+    },
+    "CreatedAt": "2025-08-02T11:08:00",
+    "UpdatedAt": "2025-08-02T11:08:00",
+    "OfficeId": 3964,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398c92"
+    },
+    "CreatedAt": "2025-08-02T11:08:00",
+    "UpdatedAt": "2025-08-02T11:09:00",
+    "OfficeId": 4319,
+    "CandidateId": 1,
+    "TotalVote": 26,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398c93"
+    },
+    "CreatedAt": "2025-08-02T11:09:00",
+    "UpdatedAt": "2025-08-02T11:09:00",
+    "OfficeId": 4319,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398c94"
+    },
+    "CreatedAt": "2025-08-02T11:10:00",
+    "UpdatedAt": "2025-08-02T11:10:00",
+    "OfficeId": 4319,
+    "CandidateId": 3,
+    "TotalVote": 136,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398c95"
+    },
+    "CreatedAt": "2025-08-02T11:11:00",
+    "UpdatedAt": "2025-08-02T11:11:00",
+    "OfficeId": 4319,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398c96"
+    },
+    "CreatedAt": "2025-08-02T11:11:00",
+    "UpdatedAt": "2025-08-02T11:12:00",
+    "OfficeId": 4319,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398c97"
+    },
+    "CreatedAt": "2025-08-02T11:12:00",
+    "UpdatedAt": "2025-08-02T11:13:00",
+    "OfficeId": 4319,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398c98"
+    },
+    "CreatedAt": "2025-08-02T11:13:00",
+    "UpdatedAt": "2025-08-02T11:13:00",
+    "OfficeId": 4319,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398c99"
+    },
+    "CreatedAt": "2025-08-02T11:14:00",
+    "UpdatedAt": "2025-08-02T11:14:00",
+    "OfficeId": 4319,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398c9a"
+    },
+    "CreatedAt": "2025-08-02T11:14:00",
+    "UpdatedAt": "2025-08-02T11:15:00",
+    "OfficeId": 4319,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398c9b"
+    },
+    "CreatedAt": "2025-08-02T11:15:00",
+    "UpdatedAt": "2025-08-02T11:16:00",
+    "OfficeId": 4319,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398c9c"
+    },
+    "CreatedAt": "2025-08-02T11:16:00",
+    "UpdatedAt": "2025-08-02T11:16:00",
+    "OfficeId": 4319,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398c9d"
+    },
+    "CreatedAt": "2025-08-02T11:17:00",
+    "UpdatedAt": "2025-08-02T11:17:00",
+    "OfficeId": 4319,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398c9e"
+    },
+    "CreatedAt": "2025-08-02T11:17:00",
+    "UpdatedAt": "2025-08-02T11:18:00",
+    "OfficeId": 4319,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398c9f"
+    },
+    "CreatedAt": "2025-08-02T11:18:00",
+    "UpdatedAt": "2025-08-02T11:19:00",
+    "OfficeId": 4319,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398ca0"
+    },
+    "CreatedAt": "2025-08-02T11:19:00",
+    "UpdatedAt": "2025-08-02T11:19:00",
+    "OfficeId": 4319,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398ca1"
+    },
+    "CreatedAt": "2025-08-02T11:20:00",
+    "UpdatedAt": "2025-08-02T11:20:00",
+    "OfficeId": 4319,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398ca2"
+    },
+    "CreatedAt": "2025-08-02T11:21:00",
+    "UpdatedAt": "2025-08-02T11:21:00",
+    "OfficeId": 4319,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398ca3"
+    },
+    "CreatedAt": "2025-08-02T11:21:00",
+    "UpdatedAt": "2025-08-02T11:22:00",
+    "OfficeId": 4319,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eaca64575bda5628398ca4"
+    },
+    "CreatedAt": "2025-08-02T11:22:00",
+    "UpdatedAt": "2025-08-02T11:22:00",
+    "OfficeId": 4319,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": "64ea9d03777bda5628398bac",
+    "CandidateId": 3,
+    "CreatedAt": "2025-08-02T11:23:00",
+    "OfficeId": 4830,
+    "TotalVote": 866,
+    "UpdatedAt": "2025-08-02T11:23:00"
+  },
+  {
+    "_id": {
+      "$oid": "64eb6038fc7d79046bda1b89"
+    },
+    "CandidateId": 3,
+    "CreatedAt": "2025-08-02T11:24:00",
+    "From": "+2250768498465",
+    "OfficeId": 4832,
+    "TotalVote": 149,
+    "UpdatedAt": "2025-08-02T11:24:00"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b3b"
+    },
+    "CreatedAt": "2025-08-02T11:24:00",
+    "UpdatedAt": "2025-08-02T11:25:00",
+    "OfficeId": 1157,
+    "CandidateId": 1,
+    "TotalVote": 40,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b3c"
+    },
+    "CreatedAt": "2025-08-02T11:25:00",
+    "UpdatedAt": "2025-08-02T11:25:00",
+    "OfficeId": 1157,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b3d"
+    },
+    "CreatedAt": "2025-08-02T11:26:00",
+    "UpdatedAt": "2025-08-02T11:26:00",
+    "OfficeId": 1157,
+    "CandidateId": 3,
+    "TotalVote": 60,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b3e"
+    },
+    "CreatedAt": "2025-08-02T11:27:00",
+    "UpdatedAt": "2025-08-02T11:27:00",
+    "OfficeId": 1157,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b3f"
+    },
+    "CreatedAt": "2025-08-02T11:27:00",
+    "UpdatedAt": "2025-08-02T11:28:00",
+    "OfficeId": 1157,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b40"
+    },
+    "CreatedAt": "2025-08-02T11:28:00",
+    "UpdatedAt": "2025-08-02T11:29:00",
+    "OfficeId": 1157,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b41"
+    },
+    "CreatedAt": "2025-08-02T11:29:00",
+    "UpdatedAt": "2025-08-02T11:29:00",
+    "OfficeId": 1157,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b42"
+    },
+    "CreatedAt": "2025-08-02T11:30:00",
+    "UpdatedAt": "2025-08-02T11:30:00",
+    "OfficeId": 1157,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b43"
+    },
+    "CreatedAt": "2025-08-02T11:30:00",
+    "UpdatedAt": "2025-08-02T11:31:00",
+    "OfficeId": 1157,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b44"
+    },
+    "CreatedAt": "2025-08-02T11:31:00",
+    "UpdatedAt": "2025-08-02T11:32:00",
+    "OfficeId": 1157,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b45"
+    },
+    "CreatedAt": "2025-08-02T11:32:00",
+    "UpdatedAt": "2025-08-02T11:32:00",
+    "OfficeId": 1157,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b46"
+    },
+    "CreatedAt": "2025-08-02T11:33:00",
+    "UpdatedAt": "2025-08-02T11:33:00",
+    "OfficeId": 1157,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b47"
+    },
+    "CreatedAt": "2025-08-02T11:33:00",
+    "UpdatedAt": "2025-08-02T11:34:00",
+    "OfficeId": 1157,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b48"
+    },
+    "CreatedAt": "2025-08-02T11:34:00",
+    "UpdatedAt": "2025-08-02T11:35:00",
+    "OfficeId": 1157,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b49"
+    },
+    "CreatedAt": "2025-08-02T11:35:00",
+    "UpdatedAt": "2025-08-02T11:35:00",
+    "OfficeId": 1157,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b4a"
+    },
+    "CreatedAt": "2025-08-02T11:36:00",
+    "UpdatedAt": "2025-08-02T11:36:00",
+    "OfficeId": 1157,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b4b"
+    },
+    "CreatedAt": "2025-08-02T11:37:00",
+    "UpdatedAt": "2025-08-02T11:37:00",
+    "OfficeId": 1157,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b4c"
+    },
+    "CreatedAt": "2025-08-02T11:37:00",
+    "UpdatedAt": "2025-08-02T11:38:00",
+    "OfficeId": 1157,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8738b57c9c06dbdd0b4d"
+    },
+    "CreatedAt": "2025-08-02T11:38:00",
+    "UpdatedAt": "2025-08-02T11:38:00",
+    "OfficeId": 1157,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250704977670"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b4e"
+    },
+    "CreatedAt": "2025-08-02T11:39:00",
+    "UpdatedAt": "2025-08-02T11:39:00",
+    "OfficeId": 2516,
+    "CandidateId": 1,
+    "TotalVote": 355,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b4f"
+    },
+    "CreatedAt": "2025-08-02T11:40:00",
+    "UpdatedAt": "2025-08-02T11:40:00",
+    "OfficeId": 2516,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b50"
+    },
+    "CreatedAt": "2025-08-02T11:40:00",
+    "UpdatedAt": "2025-08-02T11:41:00",
+    "OfficeId": 2516,
+    "CandidateId": 3,
+    "TotalVote": 995,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b51"
+    },
+    "CreatedAt": "2025-08-02T11:41:00",
+    "UpdatedAt": "2025-08-02T11:41:00",
+    "OfficeId": 2516,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b52"
+    },
+    "CreatedAt": "2025-08-02T11:42:00",
+    "UpdatedAt": "2025-08-02T11:42:00",
+    "OfficeId": 2516,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b53"
+    },
+    "CreatedAt": "2025-08-02T11:43:00",
+    "UpdatedAt": "2025-08-02T11:43:00",
+    "OfficeId": 2516,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b54"
+    },
+    "CreatedAt": "2025-08-02T11:43:00",
+    "UpdatedAt": "2025-08-02T11:44:00",
+    "OfficeId": 2516,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b55"
+    },
+    "CreatedAt": "2025-08-02T11:44:00",
+    "UpdatedAt": "2025-08-02T11:44:00",
+    "OfficeId": 2516,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b56"
+    },
+    "CreatedAt": "2025-08-02T11:45:00",
+    "UpdatedAt": "2025-08-02T11:45:00",
+    "OfficeId": 2516,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b57"
+    },
+    "CreatedAt": "2025-08-02T11:46:00",
+    "UpdatedAt": "2025-08-02T11:46:00",
+    "OfficeId": 2516,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b58"
+    },
+    "CreatedAt": "2025-08-02T11:46:00",
+    "UpdatedAt": "2025-08-02T11:47:00",
+    "OfficeId": 2516,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b59"
+    },
+    "CreatedAt": "2025-08-02T11:47:00",
+    "UpdatedAt": "2025-08-02T11:48:00",
+    "OfficeId": 2516,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b5a"
+    },
+    "CreatedAt": "2025-08-02T11:48:00",
+    "UpdatedAt": "2025-08-02T11:48:00",
+    "OfficeId": 2516,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b5b"
+    },
+    "CreatedAt": "2025-08-02T11:49:00",
+    "UpdatedAt": "2025-08-02T11:49:00",
+    "OfficeId": 2516,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b5c"
+    },
+    "CreatedAt": "2025-08-02T11:49:00",
+    "UpdatedAt": "2025-08-02T11:50:00",
+    "OfficeId": 2516,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b5d"
+    },
+    "CreatedAt": "2025-08-02T11:50:00",
+    "UpdatedAt": "2025-08-02T11:51:00",
+    "OfficeId": 2516,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b5e"
+    },
+    "CreatedAt": "2025-08-02T11:51:00",
+    "UpdatedAt": "2025-08-02T11:51:00",
+    "OfficeId": 2516,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b5f"
+    },
+    "CreatedAt": "2025-08-02T11:52:00",
+    "UpdatedAt": "2025-08-02T11:52:00",
+    "OfficeId": 2516,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c5ab57c9c06dbdd0b60"
+    },
+    "CreatedAt": "2025-08-02T11:52:00",
+    "UpdatedAt": "2025-08-02T11:53:00",
+    "OfficeId": 2516,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b61"
+    },
+    "CreatedAt": "2025-08-02T11:53:00",
+    "UpdatedAt": "2025-08-02T11:54:00",
+    "OfficeId": 2519,
+    "CandidateId": 1,
+    "TotalVote": 70,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b62"
+    },
+    "CreatedAt": "2025-08-02T11:54:00",
+    "UpdatedAt": "2025-08-02T11:54:00",
+    "OfficeId": 2519,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b63"
+    },
+    "CreatedAt": "2025-08-02T11:55:00",
+    "UpdatedAt": "2025-08-02T11:55:00",
+    "OfficeId": 2519,
+    "CandidateId": 3,
+    "TotalVote": 289,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b64"
+    },
+    "CreatedAt": "2025-08-02T11:56:00",
+    "UpdatedAt": "2025-08-02T11:56:00",
+    "OfficeId": 2519,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b65"
+    },
+    "CreatedAt": "2025-08-02T11:56:00",
+    "UpdatedAt": "2025-08-02T11:57:00",
+    "OfficeId": 2519,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b66"
+    },
+    "CreatedAt": "2025-08-02T11:57:00",
+    "UpdatedAt": "2025-08-02T11:57:00",
+    "OfficeId": 2519,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b67"
+    },
+    "CreatedAt": "2025-08-02T11:58:00",
+    "UpdatedAt": "2025-08-02T11:58:00",
+    "OfficeId": 2519,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b68"
+    },
+    "CreatedAt": "2025-08-02T11:59:00",
+    "UpdatedAt": "2025-08-02T11:59:00",
+    "OfficeId": 2519,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b69"
+    },
+    "CreatedAt": "2025-08-02T11:59:00",
+    "UpdatedAt": "2025-08-02T12:00:00",
+    "OfficeId": 2519,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b6a"
+    },
+    "CreatedAt": "2025-08-02T12:00:00",
+    "UpdatedAt": "2025-08-02T12:00:00",
+    "OfficeId": 2519,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b6b"
+    },
+    "CreatedAt": "2025-08-02T12:01:00",
+    "UpdatedAt": "2025-08-02T12:01:00",
+    "OfficeId": 2519,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b6c"
+    },
+    "CreatedAt": "2025-08-02T12:02:00",
+    "UpdatedAt": "2025-08-02T12:02:00",
+    "OfficeId": 2519,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b6d"
+    },
+    "CreatedAt": "2025-08-02T12:02:00",
+    "UpdatedAt": "2025-08-02T12:03:00",
+    "OfficeId": 2519,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b6e"
+    },
+    "CreatedAt": "2025-08-02T12:03:00",
+    "UpdatedAt": "2025-08-02T12:04:00",
+    "OfficeId": 2519,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b6f"
+    },
+    "CreatedAt": "2025-08-02T12:04:00",
+    "UpdatedAt": "2025-08-02T12:04:00",
+    "OfficeId": 2519,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b70"
+    },
+    "CreatedAt": "2025-08-02T12:05:00",
+    "UpdatedAt": "2025-08-02T12:05:00",
+    "OfficeId": 2519,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b71"
+    },
+    "CreatedAt": "2025-08-02T12:05:00",
+    "UpdatedAt": "2025-08-02T12:06:00",
+    "OfficeId": 2519,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b72"
+    },
+    "CreatedAt": "2025-08-02T12:06:00",
+    "UpdatedAt": "2025-08-02T12:07:00",
+    "OfficeId": 2519,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c75b57c9c06dbdd0b73"
+    },
+    "CreatedAt": "2025-08-02T12:07:00",
+    "UpdatedAt": "2025-08-02T12:07:00",
+    "OfficeId": 2519,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b74"
+    },
+    "CreatedAt": "2025-08-02T12:08:00",
+    "UpdatedAt": "2025-08-02T12:08:00",
+    "OfficeId": 2518,
+    "CandidateId": 1,
+    "TotalVote": 165,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b75"
+    },
+    "CreatedAt": "2025-08-02T12:08:00",
+    "UpdatedAt": "2025-08-02T12:09:00",
+    "OfficeId": 2518,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b76"
+    },
+    "CreatedAt": "2025-08-02T12:09:00",
+    "UpdatedAt": "2025-08-02T12:10:00",
+    "OfficeId": 2518,
+    "CandidateId": 3,
+    "TotalVote": 617,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b77"
+    },
+    "CreatedAt": "2025-08-02T12:10:00",
+    "UpdatedAt": "2025-08-02T12:10:00",
+    "OfficeId": 2518,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b78"
+    },
+    "CreatedAt": "2025-08-02T12:11:00",
+    "UpdatedAt": "2025-08-02T12:11:00",
+    "OfficeId": 2518,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b79"
+    },
+    "CreatedAt": "2025-08-02T12:12:00",
+    "UpdatedAt": "2025-08-02T12:12:00",
+    "OfficeId": 2518,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b7a"
+    },
+    "CreatedAt": "2025-08-02T12:12:00",
+    "UpdatedAt": "2025-08-02T12:13:00",
+    "OfficeId": 2518,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b7b"
+    },
+    "CreatedAt": "2025-08-02T12:13:00",
+    "UpdatedAt": "2025-08-02T12:13:00",
+    "OfficeId": 2518,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b7c"
+    },
+    "CreatedAt": "2025-08-02T12:14:00",
+    "UpdatedAt": "2025-08-02T12:14:00",
+    "OfficeId": 2518,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b7d"
+    },
+    "CreatedAt": "2025-08-02T12:15:00",
+    "UpdatedAt": "2025-08-02T12:15:00",
+    "OfficeId": 2518,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b7e"
+    },
+    "CreatedAt": "2025-08-02T12:15:00",
+    "UpdatedAt": "2025-08-02T12:16:00",
+    "OfficeId": 2518,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b7f"
+    },
+    "CreatedAt": "2025-08-02T12:16:00",
+    "UpdatedAt": "2025-08-02T12:16:00",
+    "OfficeId": 2518,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b80"
+    },
+    "CreatedAt": "2025-08-02T12:17:00",
+    "UpdatedAt": "2025-08-02T12:17:00",
+    "OfficeId": 2518,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b81"
+    },
+    "CreatedAt": "2025-08-02T12:18:00",
+    "UpdatedAt": "2025-08-02T12:18:00",
+    "OfficeId": 2518,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b82"
+    },
+    "CreatedAt": "2025-08-02T12:18:00",
+    "UpdatedAt": "2025-08-02T12:19:00",
+    "OfficeId": 2518,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b83"
+    },
+    "CreatedAt": "2025-08-02T12:19:00",
+    "UpdatedAt": "2025-08-02T12:20:00",
+    "OfficeId": 2518,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b84"
+    },
+    "CreatedAt": "2025-08-02T12:20:00",
+    "UpdatedAt": "2025-08-02T12:20:00",
+    "OfficeId": 2518,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b85"
+    },
+    "CreatedAt": "2025-08-02T12:21:00",
+    "UpdatedAt": "2025-08-02T12:21:00",
+    "OfficeId": 2518,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8c95b57c9c06dbdd0b86"
+    },
+    "CreatedAt": "2025-08-02T12:21:00",
+    "UpdatedAt": "2025-08-02T12:22:00",
+    "OfficeId": 2518,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b87"
+    },
+    "CreatedAt": "2025-08-02T12:22:00",
+    "UpdatedAt": "2025-08-02T12:23:00",
+    "OfficeId": 3242,
+    "CandidateId": 1,
+    "TotalVote": 182,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b88"
+    },
+    "CreatedAt": "2025-08-02T12:23:00",
+    "UpdatedAt": "2025-08-02T12:23:00",
+    "OfficeId": 3242,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b89"
+    },
+    "CreatedAt": "2025-08-02T12:24:00",
+    "UpdatedAt": "2025-08-02T12:24:00",
+    "OfficeId": 3242,
+    "CandidateId": 3,
+    "TotalVote": 756,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b8a"
+    },
+    "CreatedAt": "2025-08-02T12:24:00",
+    "UpdatedAt": "2025-08-02T12:25:00",
+    "OfficeId": 3242,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b8b"
+    },
+    "CreatedAt": "2025-08-02T12:25:00",
+    "UpdatedAt": "2025-08-02T12:26:00",
+    "OfficeId": 3242,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b8c"
+    },
+    "CreatedAt": "2025-08-02T12:26:00",
+    "UpdatedAt": "2025-08-02T12:26:00",
+    "OfficeId": 3242,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b8d"
+    },
+    "CreatedAt": "2025-08-02T12:27:00",
+    "UpdatedAt": "2025-08-02T12:27:00",
+    "OfficeId": 3242,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b8e"
+    },
+    "CreatedAt": "2025-08-02T12:28:00",
+    "UpdatedAt": "2025-08-02T12:28:00",
+    "OfficeId": 3242,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b8f"
+    },
+    "CreatedAt": "2025-08-02T12:28:00",
+    "UpdatedAt": "2025-08-02T12:29:00",
+    "OfficeId": 3242,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b90"
+    },
+    "CreatedAt": "2025-08-02T12:29:00",
+    "UpdatedAt": "2025-08-02T12:29:00",
+    "OfficeId": 3242,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b91"
+    },
+    "CreatedAt": "2025-08-02T12:30:00",
+    "UpdatedAt": "2025-08-02T12:30:00",
+    "OfficeId": 3242,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b92"
+    },
+    "CreatedAt": "2025-08-02T12:31:00",
+    "UpdatedAt": "2025-08-02T12:31:00",
+    "OfficeId": 3242,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b93"
+    },
+    "CreatedAt": "2025-08-02T12:31:00",
+    "UpdatedAt": "2025-08-02T12:32:00",
+    "OfficeId": 3242,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b94"
+    },
+    "CreatedAt": "2025-08-02T12:32:00",
+    "UpdatedAt": "2025-08-02T12:32:00",
+    "OfficeId": 3242,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b95"
+    },
+    "CreatedAt": "2025-08-02T12:33:00",
+    "UpdatedAt": "2025-08-02T12:33:00",
+    "OfficeId": 3242,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b96"
+    },
+    "CreatedAt": "2025-08-02T12:34:00",
+    "UpdatedAt": "2025-08-02T12:34:00",
+    "OfficeId": 3242,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b97"
+    },
+    "CreatedAt": "2025-08-02T12:34:00",
+    "UpdatedAt": "2025-08-02T12:35:00",
+    "OfficeId": 3242,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b98"
+    },
+    "CreatedAt": "2025-08-02T12:35:00",
+    "UpdatedAt": "2025-08-02T12:36:00",
+    "OfficeId": 3242,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cb4b57c9c06dbdd0b99"
+    },
+    "CreatedAt": "2025-08-02T12:36:00",
+    "UpdatedAt": "2025-08-02T12:36:00",
+    "OfficeId": 3242,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0b9a"
+    },
+    "CreatedAt": "2025-08-02T12:37:00",
+    "UpdatedAt": "2025-08-02T12:37:00",
+    "OfficeId": 3713,
+    "CandidateId": 1,
+    "TotalVote": 58,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0b9b"
+    },
+    "CreatedAt": "2025-08-02T12:37:00",
+    "UpdatedAt": "2025-08-02T12:38:00",
+    "OfficeId": 3713,
+    "CandidateId": 3,
+    "TotalVote": 312,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0b9c"
+    },
+    "CreatedAt": "2025-08-02T12:38:00",
+    "UpdatedAt": "2025-08-02T12:39:00",
+    "OfficeId": 3713,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0b9d"
+    },
+    "CreatedAt": "2025-08-02T12:39:00",
+    "UpdatedAt": "2025-08-02T12:39:00",
+    "OfficeId": 3713,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0b9e"
+    },
+    "CreatedAt": "2025-08-02T12:40:00",
+    "UpdatedAt": "2025-08-02T12:40:00",
+    "OfficeId": 3713,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0b9f"
+    },
+    "CreatedAt": "2025-08-02T12:40:00",
+    "UpdatedAt": "2025-08-02T12:41:00",
+    "OfficeId": 3713,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0ba0"
+    },
+    "CreatedAt": "2025-08-02T12:41:00",
+    "UpdatedAt": "2025-08-02T12:42:00",
+    "OfficeId": 3713,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0ba1"
+    },
+    "CreatedAt": "2025-08-02T12:42:00",
+    "UpdatedAt": "2025-08-02T12:42:00",
+    "OfficeId": 3713,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0ba2"
+    },
+    "CreatedAt": "2025-08-02T12:43:00",
+    "UpdatedAt": "2025-08-02T12:43:00",
+    "OfficeId": 3713,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0ba3"
+    },
+    "CreatedAt": "2025-08-02T12:44:00",
+    "UpdatedAt": "2025-08-02T12:44:00",
+    "OfficeId": 3713,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0ba4"
+    },
+    "CreatedAt": "2025-08-02T12:44:00",
+    "UpdatedAt": "2025-08-02T12:45:00",
+    "OfficeId": 3713,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0ba5"
+    },
+    "CreatedAt": "2025-08-02T12:45:00",
+    "UpdatedAt": "2025-08-02T12:45:00",
+    "OfficeId": 3713,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0ba6"
+    },
+    "CreatedAt": "2025-08-02T12:46:00",
+    "UpdatedAt": "2025-08-02T12:46:00",
+    "OfficeId": 3713,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0ba7"
+    },
+    "CreatedAt": "2025-08-02T12:47:00",
+    "UpdatedAt": "2025-08-02T12:47:00",
+    "OfficeId": 3713,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0ba8"
+    },
+    "CreatedAt": "2025-08-02T12:47:00",
+    "UpdatedAt": "2025-08-02T12:48:00",
+    "OfficeId": 3713,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0ba9"
+    },
+    "CreatedAt": "2025-08-02T12:48:00",
+    "UpdatedAt": "2025-08-02T12:48:00",
+    "OfficeId": 3713,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0baa"
+    },
+    "CreatedAt": "2025-08-02T12:49:00",
+    "UpdatedAt": "2025-08-02T12:49:00",
+    "OfficeId": 3713,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cc5b57c9c06dbdd0bab"
+    },
+    "CreatedAt": "2025-08-02T12:50:00",
+    "UpdatedAt": "2025-08-02T12:50:00",
+    "OfficeId": 3713,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bac"
+    },
+    "CreatedAt": "2025-08-02T12:50:00",
+    "UpdatedAt": "2025-08-02T12:51:00",
+    "OfficeId": 3729,
+    "CandidateId": 1,
+    "TotalVote": 108,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bad"
+    },
+    "CreatedAt": "2025-08-02T12:51:00",
+    "UpdatedAt": "2025-08-02T12:52:00",
+    "OfficeId": 3729,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bae"
+    },
+    "CreatedAt": "2025-08-02T12:52:00",
+    "UpdatedAt": "2025-08-02T12:52:00",
+    "OfficeId": 3729,
+    "CandidateId": 3,
+    "TotalVote": 351,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0baf"
+    },
+    "CreatedAt": "2025-08-02T12:53:00",
+    "UpdatedAt": "2025-08-02T12:53:00",
+    "OfficeId": 3729,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bb0"
+    },
+    "CreatedAt": "2025-08-02T12:53:00",
+    "UpdatedAt": "2025-08-02T12:54:00",
+    "OfficeId": 3729,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bb1"
+    },
+    "CreatedAt": "2025-08-02T12:54:00",
+    "UpdatedAt": "2025-08-02T12:55:00",
+    "OfficeId": 3729,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bb2"
+    },
+    "CreatedAt": "2025-08-02T12:55:00",
+    "UpdatedAt": "2025-08-02T12:55:00",
+    "OfficeId": 3729,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bb3"
+    },
+    "CreatedAt": "2025-08-02T12:56:00",
+    "UpdatedAt": "2025-08-02T12:56:00",
+    "OfficeId": 3729,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bb4"
+    },
+    "CreatedAt": "2025-08-02T12:56:00",
+    "UpdatedAt": "2025-08-02T12:57:00",
+    "OfficeId": 3729,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bb5"
+    },
+    "CreatedAt": "2025-08-02T12:57:00",
+    "UpdatedAt": "2025-08-02T12:58:00",
+    "OfficeId": 3729,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bb6"
+    },
+    "CreatedAt": "2025-08-02T12:58:00",
+    "UpdatedAt": "2025-08-02T12:58:00",
+    "OfficeId": 3729,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bb7"
+    },
+    "CreatedAt": "2025-08-02T12:59:00",
+    "UpdatedAt": "2025-08-02T12:59:00",
+    "OfficeId": 3729,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bb8"
+    },
+    "CreatedAt": "2025-08-02T13:00:00",
+    "UpdatedAt": "2025-08-02T13:00:00",
+    "OfficeId": 3729,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bb9"
+    },
+    "CreatedAt": "2025-08-02T13:00:00",
+    "UpdatedAt": "2025-08-02T13:01:00",
+    "OfficeId": 3729,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bba"
+    },
+    "CreatedAt": "2025-08-02T13:01:00",
+    "UpdatedAt": "2025-08-02T13:01:00",
+    "OfficeId": 3729,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bbb"
+    },
+    "CreatedAt": "2025-08-02T13:02:00",
+    "UpdatedAt": "2025-08-02T13:02:00",
+    "OfficeId": 3729,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bbc"
+    },
+    "CreatedAt": "2025-08-02T13:03:00",
+    "UpdatedAt": "2025-08-02T13:03:00",
+    "OfficeId": 3729,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bbd"
+    },
+    "CreatedAt": "2025-08-02T13:03:00",
+    "UpdatedAt": "2025-08-02T13:04:00",
+    "OfficeId": 3729,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cd8b57c9c06dbdd0bbe"
+    },
+    "CreatedAt": "2025-08-02T13:04:00",
+    "UpdatedAt": "2025-08-02T13:04:00",
+    "OfficeId": 3729,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bbf"
+    },
+    "CreatedAt": "2025-08-02T13:05:00",
+    "UpdatedAt": "2025-08-02T13:05:00",
+    "OfficeId": 2521,
+    "CandidateId": 1,
+    "TotalVote": 496,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bc0"
+    },
+    "CreatedAt": "2025-08-02T13:06:00",
+    "UpdatedAt": "2025-08-02T13:06:00",
+    "OfficeId": 2521,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bc1"
+    },
+    "CreatedAt": "2025-08-02T13:06:00",
+    "UpdatedAt": "2025-08-02T13:07:00",
+    "OfficeId": 2521,
+    "CandidateId": 3,
+    "TotalVote": 1457,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bc2"
+    },
+    "CreatedAt": "2025-08-02T13:07:00",
+    "UpdatedAt": "2025-08-02T13:07:00",
+    "OfficeId": 2521,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bc3"
+    },
+    "CreatedAt": "2025-08-02T13:08:00",
+    "UpdatedAt": "2025-08-02T13:08:00",
+    "OfficeId": 2521,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bc4"
+    },
+    "CreatedAt": "2025-08-02T13:09:00",
+    "UpdatedAt": "2025-08-02T13:09:00",
+    "OfficeId": 2521,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bc5"
+    },
+    "CreatedAt": "2025-08-02T13:09:00",
+    "UpdatedAt": "2025-08-02T13:10:00",
+    "OfficeId": 2521,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bc6"
+    },
+    "CreatedAt": "2025-08-02T13:10:00",
+    "UpdatedAt": "2025-08-02T13:11:00",
+    "OfficeId": 2521,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bc7"
+    },
+    "CreatedAt": "2025-08-02T13:11:00",
+    "UpdatedAt": "2025-08-02T13:11:00",
+    "OfficeId": 2521,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bc8"
+    },
+    "CreatedAt": "2025-08-02T13:12:00",
+    "UpdatedAt": "2025-08-02T13:12:00",
+    "OfficeId": 2521,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bc9"
+    },
+    "CreatedAt": "2025-08-02T13:12:00",
+    "UpdatedAt": "2025-08-02T13:13:00",
+    "OfficeId": 2521,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bca"
+    },
+    "CreatedAt": "2025-08-02T13:13:00",
+    "UpdatedAt": "2025-08-02T13:14:00",
+    "OfficeId": 2521,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bcb"
+    },
+    "CreatedAt": "2025-08-02T13:14:00",
+    "UpdatedAt": "2025-08-02T13:14:00",
+    "OfficeId": 2521,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bcc"
+    },
+    "CreatedAt": "2025-08-02T13:15:00",
+    "UpdatedAt": "2025-08-02T13:15:00",
+    "OfficeId": 2521,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bcd"
+    },
+    "CreatedAt": "2025-08-02T13:15:00",
+    "UpdatedAt": "2025-08-02T13:16:00",
+    "OfficeId": 2521,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bce"
+    },
+    "CreatedAt": "2025-08-02T13:16:00",
+    "UpdatedAt": "2025-08-02T13:17:00",
+    "OfficeId": 2521,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bcf"
+    },
+    "CreatedAt": "2025-08-02T13:17:00",
+    "UpdatedAt": "2025-08-02T13:17:00",
+    "OfficeId": 2521,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bd0"
+    },
+    "CreatedAt": "2025-08-02T13:18:00",
+    "UpdatedAt": "2025-08-02T13:18:00",
+    "OfficeId": 2521,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8cecb57c9c06dbdd0bd1"
+    },
+    "CreatedAt": "2025-08-02T13:19:00",
+    "UpdatedAt": "2025-08-02T13:19:00",
+    "OfficeId": 2521,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0bd2"
+    },
+    "CreatedAt": "2025-08-02T13:19:00",
+    "UpdatedAt": "2025-08-02T13:20:00",
+    "OfficeId": 2526,
+    "CandidateId": 1,
+    "TotalVote": 130,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0bd3"
+    },
+    "CreatedAt": "2025-08-02T13:20:00",
+    "UpdatedAt": "2025-08-02T13:20:00",
+    "OfficeId": 2526,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0bd4"
+    },
+    "CreatedAt": "2025-08-02T13:21:00",
+    "UpdatedAt": "2025-08-02T13:21:00",
+    "OfficeId": 2526,
+    "CandidateId": 3,
+    "TotalVote": 543,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0bd5"
+    },
+    "CreatedAt": "2025-08-02T13:22:00",
+    "UpdatedAt": "2025-08-02T13:22:00",
+    "OfficeId": 2526,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0bd6"
+    },
+    "CreatedAt": "2025-08-02T13:22:00",
+    "UpdatedAt": "2025-08-02T13:23:00",
+    "OfficeId": 2526,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0bd7"
+    },
+    "CreatedAt": "2025-08-02T13:23:00",
+    "UpdatedAt": "2025-08-02T13:23:00",
+    "OfficeId": 2526,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0bd8"
+    },
+    "CreatedAt": "2025-08-02T13:24:00",
+    "UpdatedAt": "2025-08-02T13:24:00",
+    "OfficeId": 2526,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0bd9"
+    },
+    "CreatedAt": "2025-08-02T13:25:00",
+    "UpdatedAt": "2025-08-02T13:25:00",
+    "OfficeId": 2526,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0bda"
+    },
+    "CreatedAt": "2025-08-02T13:25:00",
+    "UpdatedAt": "2025-08-02T13:26:00",
+    "OfficeId": 2526,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0bdb"
+    },
+    "CreatedAt": "2025-08-02T13:26:00",
+    "UpdatedAt": "2025-08-02T13:27:00",
+    "OfficeId": 2526,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0bdc"
+    },
+    "CreatedAt": "2025-08-02T13:27:00",
+    "UpdatedAt": "2025-08-02T13:27:00",
+    "OfficeId": 2526,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0bdd"
+    },
+    "CreatedAt": "2025-08-02T13:28:00",
+    "UpdatedAt": "2025-08-02T13:28:00",
+    "OfficeId": 2526,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0bde"
+    },
+    "CreatedAt": "2025-08-02T13:28:00",
+    "UpdatedAt": "2025-08-02T13:29:00",
+    "OfficeId": 2526,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0bdf"
+    },
+    "CreatedAt": "2025-08-02T13:29:00",
+    "UpdatedAt": "2025-08-02T13:30:00",
+    "OfficeId": 2526,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0be0"
+    },
+    "CreatedAt": "2025-08-02T13:30:00",
+    "UpdatedAt": "2025-08-02T13:30:00",
+    "OfficeId": 2526,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0be1"
+    },
+    "CreatedAt": "2025-08-02T13:31:00",
+    "UpdatedAt": "2025-08-02T13:31:00",
+    "OfficeId": 2526,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0be2"
+    },
+    "CreatedAt": "2025-08-02T13:31:00",
+    "UpdatedAt": "2025-08-02T13:32:00",
+    "OfficeId": 2526,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0be3"
+    },
+    "CreatedAt": "2025-08-02T13:32:00",
+    "UpdatedAt": "2025-08-02T13:33:00",
+    "OfficeId": 2526,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d02b57c9c06dbdd0be4"
+    },
+    "CreatedAt": "2025-08-02T13:33:00",
+    "UpdatedAt": "2025-08-02T13:33:00",
+    "OfficeId": 2526,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0be5"
+    },
+    "CreatedAt": "2025-08-02T13:34:00",
+    "UpdatedAt": "2025-08-02T13:34:00",
+    "OfficeId": 3718,
+    "CandidateId": 1,
+    "TotalVote": 752,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0be6"
+    },
+    "CreatedAt": "2025-08-02T13:35:00",
+    "UpdatedAt": "2025-08-02T13:35:00",
+    "OfficeId": 3718,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0be7"
+    },
+    "CreatedAt": "2025-08-02T13:35:00",
+    "UpdatedAt": "2025-08-02T13:36:00",
+    "OfficeId": 3718,
+    "CandidateId": 3,
+    "TotalVote": 1336,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0be8"
+    },
+    "CreatedAt": "2025-08-02T13:36:00",
+    "UpdatedAt": "2025-08-02T13:36:00",
+    "OfficeId": 3718,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0be9"
+    },
+    "CreatedAt": "2025-08-02T13:37:00",
+    "UpdatedAt": "2025-08-02T13:37:00",
+    "OfficeId": 3718,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0bea"
+    },
+    "CreatedAt": "2025-08-02T13:38:00",
+    "UpdatedAt": "2025-08-02T13:38:00",
+    "OfficeId": 3718,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0beb"
+    },
+    "CreatedAt": "2025-08-02T13:38:00",
+    "UpdatedAt": "2025-08-02T13:39:00",
+    "OfficeId": 3718,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0bec"
+    },
+    "CreatedAt": "2025-08-02T13:39:00",
+    "UpdatedAt": "2025-08-02T13:39:00",
+    "OfficeId": 3718,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0bed"
+    },
+    "CreatedAt": "2025-08-02T13:40:00",
+    "UpdatedAt": "2025-08-02T13:40:00",
+    "OfficeId": 3718,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0bee"
+    },
+    "CreatedAt": "2025-08-02T13:41:00",
+    "UpdatedAt": "2025-08-02T13:41:00",
+    "OfficeId": 3718,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0bef"
+    },
+    "CreatedAt": "2025-08-02T13:41:00",
+    "UpdatedAt": "2025-08-02T13:42:00",
+    "OfficeId": 3718,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0bf0"
+    },
+    "CreatedAt": "2025-08-02T13:42:00",
+    "UpdatedAt": "2025-08-02T13:43:00",
+    "OfficeId": 3718,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0bf1"
+    },
+    "CreatedAt": "2025-08-02T13:43:00",
+    "UpdatedAt": "2025-08-02T13:43:00",
+    "OfficeId": 3718,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0bf2"
+    },
+    "CreatedAt": "2025-08-02T13:44:00",
+    "UpdatedAt": "2025-08-02T13:44:00",
+    "OfficeId": 3718,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0bf3"
+    },
+    "CreatedAt": "2025-08-02T13:44:00",
+    "UpdatedAt": "2025-08-02T13:45:00",
+    "OfficeId": 3718,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0bf4"
+    },
+    "CreatedAt": "2025-08-02T13:45:00",
+    "UpdatedAt": "2025-08-02T13:46:00",
+    "OfficeId": 3718,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0bf5"
+    },
+    "CreatedAt": "2025-08-02T13:46:00",
+    "UpdatedAt": "2025-08-02T13:46:00",
+    "OfficeId": 3718,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0bf6"
+    },
+    "CreatedAt": "2025-08-02T13:47:00",
+    "UpdatedAt": "2025-08-02T13:47:00",
+    "OfficeId": 3718,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb8d14b57c9c06dbdd0bf7"
+    },
+    "CreatedAt": "2025-08-02T13:47:00",
+    "UpdatedAt": "2025-08-02T13:48:00",
+    "OfficeId": 3718,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250700612759"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0bf8"
+    },
+    "CreatedAt": "2025-08-02T13:48:00",
+    "UpdatedAt": "2025-08-02T13:49:00",
+    "OfficeId": 4714,
+    "CandidateId": 1,
+    "TotalVote": 267,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0bf9"
+    },
+    "CreatedAt": "2025-08-02T13:49:00",
+    "UpdatedAt": "2025-08-02T13:49:00",
+    "OfficeId": 4714,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0bfa"
+    },
+    "CreatedAt": "2025-08-02T13:50:00",
+    "UpdatedAt": "2025-08-02T13:50:00",
+    "OfficeId": 4714,
+    "CandidateId": 3,
+    "TotalVote": 1181,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0bfb"
+    },
+    "CreatedAt": "2025-08-02T13:51:00",
+    "UpdatedAt": "2025-08-02T13:51:00",
+    "OfficeId": 4714,
+    "CandidateId": 4,
+    "TotalVote": 10,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0bfc"
+    },
+    "CreatedAt": "2025-08-02T13:51:00",
+    "UpdatedAt": "2025-08-02T13:52:00",
+    "OfficeId": 4714,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0bfd"
+    },
+    "CreatedAt": "2025-08-02T13:52:00",
+    "UpdatedAt": "2025-08-02T13:52:00",
+    "OfficeId": 4714,
+    "CandidateId": 6,
+    "TotalVote": 1,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0bfe"
+    },
+    "CreatedAt": "2025-08-02T13:53:00",
+    "UpdatedAt": "2025-08-02T13:53:00",
+    "OfficeId": 4714,
+    "CandidateId": 7,
+    "TotalVote": 1,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0bff"
+    },
+    "CreatedAt": "2025-08-02T13:54:00",
+    "UpdatedAt": "2025-08-02T13:54:00",
+    "OfficeId": 4714,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0c00"
+    },
+    "CreatedAt": "2025-08-02T13:54:00",
+    "UpdatedAt": "2025-08-02T13:55:00",
+    "OfficeId": 4714,
+    "CandidateId": 9,
+    "TotalVote": 3,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0c01"
+    },
+    "CreatedAt": "2025-08-02T13:55:00",
+    "UpdatedAt": "2025-08-02T13:55:00",
+    "OfficeId": 4714,
+    "CandidateId": 10,
+    "TotalVote": 2,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0c02"
+    },
+    "CreatedAt": "2025-08-02T13:56:00",
+    "UpdatedAt": "2025-08-02T13:56:00",
+    "OfficeId": 4714,
+    "CandidateId": 11,
+    "TotalVote": 1,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0c03"
+    },
+    "CreatedAt": "2025-08-02T13:57:00",
+    "UpdatedAt": "2025-08-02T13:57:00",
+    "OfficeId": 4714,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0c04"
+    },
+    "CreatedAt": "2025-08-02T13:57:00",
+    "UpdatedAt": "2025-08-02T13:58:00",
+    "OfficeId": 4714,
+    "CandidateId": 13,
+    "TotalVote": 4,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0c05"
+    },
+    "CreatedAt": "2025-08-02T13:58:00",
+    "UpdatedAt": "2025-08-02T13:59:00",
+    "OfficeId": 4714,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0c06"
+    },
+    "CreatedAt": "2025-08-02T13:59:00",
+    "UpdatedAt": "2025-08-02T13:59:00",
+    "OfficeId": 4714,
+    "CandidateId": 15,
+    "TotalVote": 1,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0c07"
+    },
+    "CreatedAt": "2025-08-02T14:00:00",
+    "UpdatedAt": "2025-08-02T14:00:00",
+    "OfficeId": 4714,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0c08"
+    },
+    "CreatedAt": "2025-08-02T14:00:00",
+    "UpdatedAt": "2025-08-02T14:01:00",
+    "OfficeId": 4714,
+    "CandidateId": 17,
+    "TotalVote": 9,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9577b57c9c06dbdd0c09"
+    },
+    "CreatedAt": "2025-08-02T14:01:00",
+    "UpdatedAt": "2025-08-02T14:02:00",
+    "OfficeId": 4714,
+    "CandidateId": 18,
+    "TotalVote": 11,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9578b57c9c06dbdd0c0a"
+    },
+    "CreatedAt": "2025-08-02T14:02:00",
+    "UpdatedAt": "2025-08-02T14:02:00",
+    "OfficeId": 4714,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c0b"
+    },
+    "CreatedAt": "2025-08-02T14:03:00",
+    "UpdatedAt": "2025-08-02T14:03:00",
+    "OfficeId": 4833,
+    "CandidateId": 1,
+    "TotalVote": 365,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c0c"
+    },
+    "CreatedAt": "2025-08-02T14:03:00",
+    "UpdatedAt": "2025-08-02T14:04:00",
+    "OfficeId": 4833,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c0d"
+    },
+    "CreatedAt": "2025-08-02T14:04:00",
+    "UpdatedAt": "2025-08-02T14:05:00",
+    "OfficeId": 4833,
+    "CandidateId": 3,
+    "TotalVote": 848,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c0e"
+    },
+    "CreatedAt": "2025-08-02T14:05:00",
+    "UpdatedAt": "2025-08-02T14:05:00",
+    "OfficeId": 4833,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c0f"
+    },
+    "CreatedAt": "2025-08-02T14:06:00",
+    "UpdatedAt": "2025-08-02T14:06:00",
+    "OfficeId": 4833,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c10"
+    },
+    "CreatedAt": "2025-08-02T14:07:00",
+    "UpdatedAt": "2025-08-02T14:07:00",
+    "OfficeId": 4833,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c11"
+    },
+    "CreatedAt": "2025-08-02T14:07:00",
+    "UpdatedAt": "2025-08-02T14:08:00",
+    "OfficeId": 4833,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c12"
+    },
+    "CreatedAt": "2025-08-02T14:08:00",
+    "UpdatedAt": "2025-08-02T14:08:00",
+    "OfficeId": 4833,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c13"
+    },
+    "CreatedAt": "2025-08-02T14:09:00",
+    "UpdatedAt": "2025-08-02T14:09:00",
+    "OfficeId": 4833,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c14"
+    },
+    "CreatedAt": "2025-08-02T14:10:00",
+    "UpdatedAt": "2025-08-02T14:10:00",
+    "OfficeId": 4833,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c15"
+    },
+    "CreatedAt": "2025-08-02T14:10:00",
+    "UpdatedAt": "2025-08-02T14:11:00",
+    "OfficeId": 4833,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c16"
+    },
+    "CreatedAt": "2025-08-02T14:11:00",
+    "UpdatedAt": "2025-08-02T14:11:00",
+    "OfficeId": 4833,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c17"
+    },
+    "CreatedAt": "2025-08-02T14:12:00",
+    "UpdatedAt": "2025-08-02T14:12:00",
+    "OfficeId": 4833,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c18"
+    },
+    "CreatedAt": "2025-08-02T14:13:00",
+    "UpdatedAt": "2025-08-02T14:13:00",
+    "OfficeId": 4833,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c19"
+    },
+    "CreatedAt": "2025-08-02T14:13:00",
+    "UpdatedAt": "2025-08-02T14:14:00",
+    "OfficeId": 4833,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c1a"
+    },
+    "CreatedAt": "2025-08-02T14:14:00",
+    "UpdatedAt": "2025-08-02T14:14:00",
+    "OfficeId": 4833,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c1b"
+    },
+    "CreatedAt": "2025-08-02T14:15:00",
+    "UpdatedAt": "2025-08-02T14:15:00",
+    "OfficeId": 4833,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c1c"
+    },
+    "CreatedAt": "2025-08-02T14:16:00",
+    "UpdatedAt": "2025-08-02T14:16:00",
+    "OfficeId": 4833,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9931b57c9c06dbdd0c1d"
+    },
+    "CreatedAt": "2025-08-02T14:16:00",
+    "UpdatedAt": "2025-08-02T14:17:00",
+    "OfficeId": 4833,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c1e"
+    },
+    "CreatedAt": "2025-08-02T14:17:00",
+    "UpdatedAt": "2025-08-02T14:18:00",
+    "OfficeId": 4780,
+    "CandidateId": 1,
+    "TotalVote": 65,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c1f"
+    },
+    "CreatedAt": "2025-08-02T14:18:00",
+    "UpdatedAt": "2025-08-02T14:18:00",
+    "OfficeId": 4780,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c20"
+    },
+    "CreatedAt": "2025-08-02T14:19:00",
+    "UpdatedAt": "2025-08-02T14:19:00",
+    "OfficeId": 4780,
+    "CandidateId": 3,
+    "TotalVote": 573,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c21"
+    },
+    "CreatedAt": "2025-08-02T14:19:00",
+    "UpdatedAt": "2025-08-02T14:20:00",
+    "OfficeId": 4780,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c22"
+    },
+    "CreatedAt": "2025-08-02T14:20:00",
+    "UpdatedAt": "2025-08-02T14:21:00",
+    "OfficeId": 4780,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c23"
+    },
+    "CreatedAt": "2025-08-02T14:21:00",
+    "UpdatedAt": "2025-08-02T14:21:00",
+    "OfficeId": 4780,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c24"
+    },
+    "CreatedAt": "2025-08-02T14:22:00",
+    "UpdatedAt": "2025-08-02T14:22:00",
+    "OfficeId": 4780,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c25"
+    },
+    "CreatedAt": "2025-08-02T14:22:00",
+    "UpdatedAt": "2025-08-02T14:23:00",
+    "OfficeId": 4780,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c26"
+    },
+    "CreatedAt": "2025-08-02T14:23:00",
+    "UpdatedAt": "2025-08-02T14:24:00",
+    "OfficeId": 4780,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c27"
+    },
+    "CreatedAt": "2025-08-02T14:24:00",
+    "UpdatedAt": "2025-08-02T14:24:00",
+    "OfficeId": 4780,
+    "CandidateId": 10,
+    "TotalVote": 1,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c28"
+    },
+    "CreatedAt": "2025-08-02T14:25:00",
+    "UpdatedAt": "2025-08-02T14:25:00",
+    "OfficeId": 4780,
+    "CandidateId": 11,
+    "TotalVote": 2,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c29"
+    },
+    "CreatedAt": "2025-08-02T14:26:00",
+    "UpdatedAt": "2025-08-02T14:26:00",
+    "OfficeId": 4780,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c2a"
+    },
+    "CreatedAt": "2025-08-02T14:26:00",
+    "UpdatedAt": "2025-08-02T14:27:00",
+    "OfficeId": 4780,
+    "CandidateId": 13,
+    "TotalVote": 2,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c2b"
+    },
+    "CreatedAt": "2025-08-02T14:27:00",
+    "UpdatedAt": "2025-08-02T14:27:00",
+    "OfficeId": 4780,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c2c"
+    },
+    "CreatedAt": "2025-08-02T14:28:00",
+    "UpdatedAt": "2025-08-02T14:28:00",
+    "OfficeId": 4780,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c2d"
+    },
+    "CreatedAt": "2025-08-02T14:29:00",
+    "UpdatedAt": "2025-08-02T14:29:00",
+    "OfficeId": 4780,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c2e"
+    },
+    "CreatedAt": "2025-08-02T14:29:00",
+    "UpdatedAt": "2025-08-02T14:30:00",
+    "OfficeId": 4780,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c2f"
+    },
+    "CreatedAt": "2025-08-02T14:30:00",
+    "UpdatedAt": "2025-08-02T14:30:00",
+    "OfficeId": 4780,
+    "CandidateId": 18,
+    "TotalVote": 2,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eb9a2bb57c9c06dbdd0c30"
+    },
+    "CreatedAt": "2025-08-02T14:31:00",
+    "UpdatedAt": "2025-08-02T14:31:00",
+    "OfficeId": 4780,
+    "CandidateId": 19,
+    "TotalVote": 1,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c31"
+    },
+    "CreatedAt": "2025-08-02T14:32:00",
+    "UpdatedAt": "2025-08-02T14:32:00",
+    "OfficeId": 4779,
+    "CandidateId": 1,
+    "TotalVote": 65,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c32"
+    },
+    "CreatedAt": "2025-08-02T14:32:00",
+    "UpdatedAt": "2025-08-02T14:33:00",
+    "OfficeId": 4779,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c33"
+    },
+    "CreatedAt": "2025-08-02T14:33:00",
+    "UpdatedAt": "2025-08-02T14:34:00",
+    "OfficeId": 4779,
+    "CandidateId": 3,
+    "TotalVote": 573,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c34"
+    },
+    "CreatedAt": "2025-08-02T14:34:00",
+    "UpdatedAt": "2025-08-02T14:34:00",
+    "OfficeId": 4779,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c35"
+    },
+    "CreatedAt": "2025-08-02T14:35:00",
+    "UpdatedAt": "2025-08-02T14:35:00",
+    "OfficeId": 4779,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c36"
+    },
+    "CreatedAt": "2025-08-02T14:35:00",
+    "UpdatedAt": "2025-08-02T14:36:00",
+    "OfficeId": 4779,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c37"
+    },
+    "CreatedAt": "2025-08-02T14:36:00",
+    "UpdatedAt": "2025-08-02T14:37:00",
+    "OfficeId": 4779,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c38"
+    },
+    "CreatedAt": "2025-08-02T14:37:00",
+    "UpdatedAt": "2025-08-02T14:37:00",
+    "OfficeId": 4779,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c39"
+    },
+    "CreatedAt": "2025-08-02T14:38:00",
+    "UpdatedAt": "2025-08-02T14:38:00",
+    "OfficeId": 4779,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c3a"
+    },
+    "CreatedAt": "2025-08-02T14:38:00",
+    "UpdatedAt": "2025-08-02T14:39:00",
+    "OfficeId": 4779,
+    "CandidateId": 10,
+    "TotalVote": 1,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c3b"
+    },
+    "CreatedAt": "2025-08-02T14:39:00",
+    "UpdatedAt": "2025-08-02T14:40:00",
+    "OfficeId": 4779,
+    "CandidateId": 11,
+    "TotalVote": 2,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c3c"
+    },
+    "CreatedAt": "2025-08-02T14:40:00",
+    "UpdatedAt": "2025-08-02T14:40:00",
+    "OfficeId": 4779,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c3d"
+    },
+    "CreatedAt": "2025-08-02T14:41:00",
+    "UpdatedAt": "2025-08-02T14:41:00",
+    "OfficeId": 4779,
+    "CandidateId": 13,
+    "TotalVote": 2,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c3e"
+    },
+    "CreatedAt": "2025-08-02T14:42:00",
+    "UpdatedAt": "2025-08-02T14:42:00",
+    "OfficeId": 4779,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c3f"
+    },
+    "CreatedAt": "2025-08-02T14:42:00",
+    "UpdatedAt": "2025-08-02T14:43:00",
+    "OfficeId": 4779,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c40"
+    },
+    "CreatedAt": "2025-08-02T14:43:00",
+    "UpdatedAt": "2025-08-02T14:43:00",
+    "OfficeId": 4779,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c41"
+    },
+    "CreatedAt": "2025-08-02T14:44:00",
+    "UpdatedAt": "2025-08-02T14:44:00",
+    "OfficeId": 4779,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c42"
+    },
+    "CreatedAt": "2025-08-02T14:45:00",
+    "UpdatedAt": "2025-08-02T14:45:00",
+    "OfficeId": 4779,
+    "CandidateId": 18,
+    "TotalVote": 2,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64eba43bb57c9c06dbdd0c43"
+    },
+    "CreatedAt": "2025-08-02T14:45:00",
+    "UpdatedAt": "2025-08-02T14:46:00",
+    "OfficeId": 4779,
+    "CandidateId": 19,
+    "TotalVote": 1,
+    "From": "+2250789636186"
+  },
+  {
+    "_id": {
+      "$oid": "64ebbe786e5ae2d8b2560e9d"
+    },
+    "CreatedAt": "2025-08-02T14:46:00",
+    "UpdatedAt": "2025-08-02T14:46:00",
+    "OfficeId": 4830,
+    "CandidateId": 3,
+    "TotalVote": 866,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ebbe786e5ae2d8b2560e9e"
+    },
+    "CreatedAt": "2025-08-02T14:47:00",
+    "UpdatedAt": "2025-08-02T14:47:00",
+    "OfficeId": 4830,
+    "CandidateId": 1,
+    "TotalVote": 196,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ebbee26e5ae2d8b2560e9f"
+    },
+    "CreatedAt": "2025-08-02T14:48:00",
+    "UpdatedAt": "2025-08-02T14:48:00",
+    "OfficeId": 4831,
+    "CandidateId": 3,
+    "TotalVote": 149,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ebbee26e5ae2d8b2560ea0"
+    },
+    "CreatedAt": "2025-08-02T14:48:00",
+    "UpdatedAt": "2025-08-02T14:49:00",
+    "OfficeId": 4831,
+    "CandidateId": 1,
+    "TotalVote": 29,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ebc2c86e5ae2d8b2560ea1"
+    },
+    "CreatedAt": "2025-08-02T14:49:00",
+    "UpdatedAt": "2025-08-02T14:50:00",
+    "OfficeId": 4832,
+    "CandidateId": 3,
+    "TotalVote": 529,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ebc2c86e5ae2d8b2560ea2"
+    },
+    "CreatedAt": "2025-08-02T14:50:00",
+    "UpdatedAt": "2025-08-02T14:50:00",
+    "OfficeId": 4832,
+    "CandidateId": 1,
+    "TotalVote": 85,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ebc2c86e5ae2d8b2560ea3"
+    },
+    "CreatedAt": "2025-08-02T14:51:00",
+    "UpdatedAt": "2025-08-02T14:51:00",
+    "OfficeId": 4832,
+    "CandidateId": 9,
+    "TotalVote": 2,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ebc2c86e5ae2d8b2560ea4"
+    },
+    "CreatedAt": "2025-08-02T14:51:00",
+    "UpdatedAt": "2025-08-02T14:52:00",
+    "OfficeId": 4832,
+    "CandidateId": 10,
+    "TotalVote": 4,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ebc2c86e5ae2d8b2560ea5"
+    },
+    "CreatedAt": "2025-08-02T14:52:00",
+    "UpdatedAt": "2025-08-02T14:53:00",
+    "OfficeId": 4832,
+    "CandidateId": 13,
+    "TotalVote": 2,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ebc2c86e5ae2d8b2560ea6"
+    },
+    "CreatedAt": "2025-08-02T14:53:00",
+    "UpdatedAt": "2025-08-02T14:53:00",
+    "OfficeId": 4832,
+    "CandidateId": 17,
+    "TotalVote": 1,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ebc3d06e5ae2d8b2560ea7"
+    },
+    "CreatedAt": "2025-08-02T14:54:00",
+    "UpdatedAt": "2025-08-02T14:54:00",
+    "OfficeId": 4834,
+    "CandidateId": 3,
+    "TotalVote": 146,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ebc3d06e5ae2d8b2560ea8"
+    },
+    "CreatedAt": "2025-08-02T14:54:00",
+    "UpdatedAt": "2025-08-02T14:55:00",
+    "OfficeId": 4834,
+    "CandidateId": 1,
+    "TotalVote": 29,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ebc4516e5ae2d8b2560ea9"
+    },
+    "CreatedAt": "2025-08-02T14:55:00",
+    "UpdatedAt": "2025-08-02T14:56:00",
+    "OfficeId": 4835,
+    "CandidateId": 3,
+    "TotalVote": 2688,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ebc4516e5ae2d8b2560eaa"
+    },
+    "CreatedAt": "2025-08-02T14:56:00",
+    "UpdatedAt": "2025-08-02T14:56:00",
+    "OfficeId": 4835,
+    "CandidateId": 1,
+    "TotalVote": 1161,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ebc49b6e5ae2d8b2560eab"
+    },
+    "CreatedAt": "2025-08-02T14:57:00",
+    "UpdatedAt": "2025-08-02T14:57:00",
+    "OfficeId": 4830,
+    "CandidateId": 3,
+    "TotalVote": 485,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ebc49b6e5ae2d8b2560eac"
+    },
+    "CreatedAt": "2025-08-02T14:58:00",
+    "UpdatedAt": "2025-08-02T14:58:00",
+    "OfficeId": 4830,
+    "CandidateId": 1,
+    "TotalVote": 100,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ec9ba36e5ae2d8b2560ead"
+    },
+    "CreatedAt": "2025-08-02T14:58:00",
+    "UpdatedAt": "2025-08-02T14:59:00",
+    "OfficeId": 4779,
+    "CandidateId": 3,
+    "TotalVote": 1544,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ec9ba36e5ae2d8b2560eae"
+    },
+    "CreatedAt": "2025-08-02T14:59:00",
+    "UpdatedAt": "2025-08-02T14:59:00",
+    "OfficeId": 4779,
+    "CandidateId": 1,
+    "TotalVote": 214,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ec9c946e5ae2d8b2560eaf"
+    },
+    "CreatedAt": "2025-08-02T15:00:00",
+    "UpdatedAt": "2025-08-02T15:00:00",
+    "OfficeId": 4782,
+    "CandidateId": 3,
+    "TotalVote": 92,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ec9c946e5ae2d8b2560eb0"
+    },
+    "CreatedAt": "2025-08-02T15:01:00",
+    "UpdatedAt": "2025-08-02T15:01:00",
+    "OfficeId": 4782,
+    "CandidateId": 1,
+    "TotalVote": 7,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ec9ce36e5ae2d8b2560eb1"
+    },
+    "CreatedAt": "2025-08-02T15:01:00",
+    "UpdatedAt": "2025-08-02T15:02:00",
+    "OfficeId": 4792,
+    "CandidateId": 3,
+    "TotalVote": 30,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ec9ce36e5ae2d8b2560eb2"
+    },
+    "CreatedAt": "2025-08-02T15:02:00",
+    "UpdatedAt": "2025-08-02T15:02:00",
+    "OfficeId": 4792,
+    "CandidateId": 1,
+    "TotalVote": 1,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ec9d826e5ae2d8b2560eb3"
+    },
+    "CreatedAt": "2025-08-02T15:03:00",
+    "UpdatedAt": "2025-08-02T15:03:00",
+    "OfficeId": 4796,
+    "CandidateId": 3,
+    "TotalVote": 93,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ec9d826e5ae2d8b2560eb4"
+    },
+    "CreatedAt": "2025-08-02T15:04:00",
+    "UpdatedAt": "2025-08-02T15:04:00",
+    "OfficeId": 4796,
+    "CandidateId": 1,
+    "TotalVote": 3,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ec9fe66e5ae2d8b2560eb5"
+    },
+    "CreatedAt": "2025-08-02T15:04:00",
+    "UpdatedAt": "2025-08-02T15:05:00",
+    "OfficeId": 4836,
+    "CandidateId": 3,
+    "TotalVote": 11,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ec9fe66e5ae2d8b2560eb6"
+    },
+    "CreatedAt": "2025-08-02T15:05:00",
+    "UpdatedAt": "2025-08-02T15:06:00",
+    "OfficeId": 4836,
+    "CandidateId": 1,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64eca0ed6e5ae2d8b2560eb7"
+    },
+    "CreatedAt": "2025-08-02T15:06:00",
+    "UpdatedAt": "2025-08-02T15:06:00",
+    "OfficeId": 4789,
+    "CandidateId": 3,
+    "TotalVote": 142,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64eca0ed6e5ae2d8b2560eb8"
+    },
+    "CreatedAt": "2025-08-02T15:07:00",
+    "UpdatedAt": "2025-08-02T15:07:00",
+    "OfficeId": 4789,
+    "CandidateId": 1,
+    "TotalVote": 15,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c44"
+    },
+    "CreatedAt": "2025-08-02T15:07:00",
+    "UpdatedAt": "2025-08-02T15:08:00",
+    "OfficeId": 1946,
+    "CandidateId": 1,
+    "TotalVote": 2958,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c45"
+    },
+    "CreatedAt": "2025-08-02T15:08:00",
+    "UpdatedAt": "2025-08-02T15:09:00",
+    "OfficeId": 1946,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c46"
+    },
+    "CreatedAt": "2025-08-02T15:09:00",
+    "UpdatedAt": "2025-08-02T15:09:00",
+    "OfficeId": 1946,
+    "CandidateId": 3,
+    "TotalVote": 5279,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c47"
+    },
+    "CreatedAt": "2025-08-02T15:10:00",
+    "UpdatedAt": "2025-08-02T15:10:00",
+    "OfficeId": 1946,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c48"
+    },
+    "CreatedAt": "2025-08-02T15:10:00",
+    "UpdatedAt": "2025-08-02T15:11:00",
+    "OfficeId": 1946,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c49"
+    },
+    "CreatedAt": "2025-08-02T15:11:00",
+    "UpdatedAt": "2025-08-02T15:12:00",
+    "OfficeId": 1946,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c4a"
+    },
+    "CreatedAt": "2025-08-02T15:12:00",
+    "UpdatedAt": "2025-08-02T15:12:00",
+    "OfficeId": 1946,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c4b"
+    },
+    "CreatedAt": "2025-08-02T15:13:00",
+    "UpdatedAt": "2025-08-02T15:13:00",
+    "OfficeId": 1946,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c4c"
+    },
+    "CreatedAt": "2025-08-02T15:14:00",
+    "UpdatedAt": "2025-08-02T15:14:00",
+    "OfficeId": 1946,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c4d"
+    },
+    "CreatedAt": "2025-08-02T15:14:00",
+    "UpdatedAt": "2025-08-02T15:15:00",
+    "OfficeId": 1946,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c4e"
+    },
+    "CreatedAt": "2025-08-02T15:15:00",
+    "UpdatedAt": "2025-08-02T15:15:00",
+    "OfficeId": 1946,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c4f"
+    },
+    "CreatedAt": "2025-08-02T15:16:00",
+    "UpdatedAt": "2025-08-02T15:16:00",
+    "OfficeId": 1946,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c50"
+    },
+    "CreatedAt": "2025-08-02T15:17:00",
+    "UpdatedAt": "2025-08-02T15:17:00",
+    "OfficeId": 1946,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c51"
+    },
+    "CreatedAt": "2025-08-02T15:17:00",
+    "UpdatedAt": "2025-08-02T15:18:00",
+    "OfficeId": 1946,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c52"
+    },
+    "CreatedAt": "2025-08-02T15:18:00",
+    "UpdatedAt": "2025-08-02T15:18:00",
+    "OfficeId": 1946,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c53"
+    },
+    "CreatedAt": "2025-08-02T15:19:00",
+    "UpdatedAt": "2025-08-02T15:19:00",
+    "OfficeId": 1946,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece524b57c9c06dbdd0c54"
+    },
+    "CreatedAt": "2025-08-02T15:20:00",
+    "UpdatedAt": "2025-08-02T15:20:00",
+    "OfficeId": 1946,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c55"
+    },
+    "CreatedAt": "2025-08-02T15:20:00",
+    "UpdatedAt": "2025-08-02T15:21:00",
+    "OfficeId": 674,
+    "CandidateId": 1,
+    "TotalVote": 38,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c56"
+    },
+    "CreatedAt": "2025-08-02T15:21:00",
+    "UpdatedAt": "2025-08-02T15:22:00",
+    "OfficeId": 674,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c57"
+    },
+    "CreatedAt": "2025-08-02T15:22:00",
+    "UpdatedAt": "2025-08-02T15:22:00",
+    "OfficeId": 674,
+    "CandidateId": 3,
+    "TotalVote": 56,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c58"
+    },
+    "CreatedAt": "2025-08-02T15:23:00",
+    "UpdatedAt": "2025-08-02T15:23:00",
+    "OfficeId": 674,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c59"
+    },
+    "CreatedAt": "2025-08-02T15:23:00",
+    "UpdatedAt": "2025-08-02T15:24:00",
+    "OfficeId": 674,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c5a"
+    },
+    "CreatedAt": "2025-08-02T15:24:00",
+    "UpdatedAt": "2025-08-02T15:25:00",
+    "OfficeId": 674,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c5b"
+    },
+    "CreatedAt": "2025-08-02T15:25:00",
+    "UpdatedAt": "2025-08-02T15:25:00",
+    "OfficeId": 674,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c5c"
+    },
+    "CreatedAt": "2025-08-02T15:26:00",
+    "UpdatedAt": "2025-08-02T15:26:00",
+    "OfficeId": 674,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c5d"
+    },
+    "CreatedAt": "2025-08-02T15:26:00",
+    "UpdatedAt": "2025-08-02T15:27:00",
+    "OfficeId": 674,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c5e"
+    },
+    "CreatedAt": "2025-08-02T15:27:00",
+    "UpdatedAt": "2025-08-02T15:28:00",
+    "OfficeId": 674,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c5f"
+    },
+    "CreatedAt": "2025-08-02T15:28:00",
+    "UpdatedAt": "2025-08-02T15:28:00",
+    "OfficeId": 674,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c60"
+    },
+    "CreatedAt": "2025-08-02T15:29:00",
+    "UpdatedAt": "2025-08-02T15:29:00",
+    "OfficeId": 674,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c61"
+    },
+    "CreatedAt": "2025-08-02T15:30:00",
+    "UpdatedAt": "2025-08-02T15:30:00",
+    "OfficeId": 674,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c62"
+    },
+    "CreatedAt": "2025-08-02T15:30:00",
+    "UpdatedAt": "2025-08-02T15:31:00",
+    "OfficeId": 674,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c63"
+    },
+    "CreatedAt": "2025-08-02T15:31:00",
+    "UpdatedAt": "2025-08-02T15:31:00",
+    "OfficeId": 674,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c64"
+    },
+    "CreatedAt": "2025-08-02T15:32:00",
+    "UpdatedAt": "2025-08-02T15:32:00",
+    "OfficeId": 674,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64ece6a1b57c9c06dbdd0c65"
+    },
+    "CreatedAt": "2025-08-02T15:33:00",
+    "UpdatedAt": "2025-08-02T15:33:00",
+    "OfficeId": 674,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": "+2250757863455"
+  },
+  {
+    "_id": {
+      "$oid": "64eced686e5ae2d8b2560f05"
+    },
+    "CreatedAt": "2025-08-02T15:33:00",
+    "UpdatedAt": "2025-08-02T15:34:00",
+    "OfficeId": 5,
+    "CandidateId": 1,
+    "TotalVote": 2958,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64eced686e5ae2d8b2560f07"
+    },
+    "CreatedAt": "2025-08-02T15:34:00",
+    "UpdatedAt": "2025-08-02T15:34:00",
+    "OfficeId": 5,
+    "CandidateId": 3,
+    "TotalVote": 5279,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b07"
+    },
+    "CreatedAt": "2025-08-02T15:35:00",
+    "UpdatedAt": "2025-08-02T15:35:00",
+    "OfficeId": 4817,
+    "CandidateId": 1,
+    "TotalVote": 393,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b08"
+    },
+    "CreatedAt": "2025-08-02T15:36:00",
+    "UpdatedAt": "2025-08-02T15:36:00",
+    "OfficeId": 4817,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b09"
+    },
+    "CreatedAt": "2025-08-02T15:36:00",
+    "UpdatedAt": "2025-08-02T15:37:00",
+    "OfficeId": 4817,
+    "CandidateId": 3,
+    "TotalVote": 1273,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b0a"
+    },
+    "CreatedAt": "2025-08-02T15:37:00",
+    "UpdatedAt": "2025-08-02T15:37:00",
+    "OfficeId": 4817,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b0b"
+    },
+    "CreatedAt": "2025-08-02T15:38:00",
+    "UpdatedAt": "2025-08-02T15:38:00",
+    "OfficeId": 4817,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b0c"
+    },
+    "CreatedAt": "2025-08-02T15:39:00",
+    "UpdatedAt": "2025-08-02T15:39:00",
+    "OfficeId": 4817,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b0d"
+    },
+    "CreatedAt": "2025-08-02T15:39:00",
+    "UpdatedAt": "2025-08-02T15:40:00",
+    "OfficeId": 4817,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b0e"
+    },
+    "CreatedAt": "2025-08-02T15:40:00",
+    "UpdatedAt": "2025-08-02T15:41:00",
+    "OfficeId": 4817,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b0f"
+    },
+    "CreatedAt": "2025-08-02T15:41:00",
+    "UpdatedAt": "2025-08-02T15:41:00",
+    "OfficeId": 4817,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b10"
+    },
+    "CreatedAt": "2025-08-02T15:42:00",
+    "UpdatedAt": "2025-08-02T15:42:00",
+    "OfficeId": 4817,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b11"
+    },
+    "CreatedAt": "2025-08-02T15:42:00",
+    "UpdatedAt": "2025-08-02T15:43:00",
+    "OfficeId": 4817,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b12"
+    },
+    "CreatedAt": "2025-08-02T15:43:00",
+    "UpdatedAt": "2025-08-02T15:44:00",
+    "OfficeId": 4817,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b13"
+    },
+    "CreatedAt": "2025-08-02T15:44:00",
+    "UpdatedAt": "2025-08-02T15:44:00",
+    "OfficeId": 4817,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b14"
+    },
+    "CreatedAt": "2025-08-02T15:45:00",
+    "UpdatedAt": "2025-08-02T15:45:00",
+    "OfficeId": 4817,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b15"
+    },
+    "CreatedAt": "2025-08-02T15:45:00",
+    "UpdatedAt": "2025-08-02T15:46:00",
+    "OfficeId": 4817,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b16"
+    },
+    "CreatedAt": "2025-08-02T15:46:00",
+    "UpdatedAt": "2025-08-02T15:47:00",
+    "OfficeId": 4817,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b17"
+    },
+    "CreatedAt": "2025-08-02T15:47:00",
+    "UpdatedAt": "2025-08-02T15:47:00",
+    "OfficeId": 4817,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b18"
+    },
+    "CreatedAt": "2025-08-02T15:48:00",
+    "UpdatedAt": "2025-08-02T15:48:00",
+    "OfficeId": 4817,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64edff9e4909dfb625ef6b19"
+    },
+    "CreatedAt": "2025-08-02T15:49:00",
+    "UpdatedAt": "2025-08-02T15:49:00",
+    "OfficeId": 4817,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b1c"
+    },
+    "CreatedAt": "2025-08-02T15:49:00",
+    "UpdatedAt": "2025-08-02T15:50:00",
+    "OfficeId": 4817,
+    "CandidateId": 1,
+    "TotalVote": 32640,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b1d"
+    },
+    "CreatedAt": "2025-08-02T15:50:00",
+    "UpdatedAt": "2025-08-02T15:50:00",
+    "OfficeId": 4817,
+    "CandidateId": 2,
+    "TotalVote": 2,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b1e"
+    },
+    "CreatedAt": "2025-08-02T15:51:00",
+    "UpdatedAt": "2025-08-02T15:51:00",
+    "OfficeId": 4817,
+    "CandidateId": 3,
+    "TotalVote": 66223,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b1f"
+    },
+    "CreatedAt": "2025-08-02T15:52:00",
+    "UpdatedAt": "2025-08-02T15:52:00",
+    "OfficeId": 4817,
+    "CandidateId": 4,
+    "TotalVote": 7,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b20"
+    },
+    "CreatedAt": "2025-08-02T15:52:00",
+    "UpdatedAt": "2025-08-02T15:53:00",
+    "OfficeId": 4817,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b21"
+    },
+    "CreatedAt": "2025-08-02T15:53:00",
+    "UpdatedAt": "2025-08-02T15:53:00",
+    "OfficeId": 4817,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b22"
+    },
+    "CreatedAt": "2025-08-02T15:54:00",
+    "UpdatedAt": "2025-08-02T15:54:00",
+    "OfficeId": 4817,
+    "CandidateId": 7,
+    "TotalVote": 1,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b23"
+    },
+    "CreatedAt": "2025-08-02T15:55:00",
+    "UpdatedAt": "2025-08-02T15:55:00",
+    "OfficeId": 4817,
+    "CandidateId": 8,
+    "TotalVote": 1,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b24"
+    },
+    "CreatedAt": "2025-08-02T15:55:00",
+    "UpdatedAt": "2025-08-02T15:56:00",
+    "OfficeId": 4817,
+    "CandidateId": 9,
+    "TotalVote": 3,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b25"
+    },
+    "CreatedAt": "2025-08-02T15:56:00",
+    "UpdatedAt": "2025-08-02T15:57:00",
+    "OfficeId": 4817,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b26"
+    },
+    "CreatedAt": "2025-08-02T15:57:00",
+    "UpdatedAt": "2025-08-02T15:57:00",
+    "OfficeId": 4817,
+    "CandidateId": 11,
+    "TotalVote": 5,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b27"
+    },
+    "CreatedAt": "2025-08-02T15:58:00",
+    "UpdatedAt": "2025-08-02T15:58:00",
+    "OfficeId": 4817,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b28"
+    },
+    "CreatedAt": "2025-08-02T15:58:00",
+    "UpdatedAt": "2025-08-02T15:59:00",
+    "OfficeId": 4817,
+    "CandidateId": 13,
+    "TotalVote": 5,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b29"
+    },
+    "CreatedAt": "2025-08-02T15:59:00",
+    "UpdatedAt": "2025-08-02T16:00:00",
+    "OfficeId": 4817,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b2a"
+    },
+    "CreatedAt": "2025-08-02T16:00:00",
+    "UpdatedAt": "2025-08-02T16:00:00",
+    "OfficeId": 4817,
+    "CandidateId": 15,
+    "TotalVote": 7,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b2b"
+    },
+    "CreatedAt": "2025-08-02T16:01:00",
+    "UpdatedAt": "2025-08-02T16:01:00",
+    "OfficeId": 4817,
+    "CandidateId": 16,
+    "TotalVote": 1,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b2c"
+    },
+    "CreatedAt": "2025-08-02T16:01:00",
+    "UpdatedAt": "2025-08-02T16:02:00",
+    "OfficeId": 4817,
+    "CandidateId": 17,
+    "TotalVote": 39,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b2d"
+    },
+    "CreatedAt": "2025-08-02T16:02:00",
+    "UpdatedAt": "2025-08-02T16:03:00",
+    "OfficeId": 4817,
+    "CandidateId": 18,
+    "TotalVote": 27,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee148e4909dfb625ef6b2e"
+    },
+    "CreatedAt": "2025-08-02T16:03:00",
+    "UpdatedAt": "2025-08-02T16:03:00",
+    "OfficeId": 4817,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b2f"
+    },
+    "CreatedAt": "2025-08-02T16:04:00",
+    "UpdatedAt": "2025-08-02T16:04:00",
+    "OfficeId": 4818,
+    "CandidateId": 1,
+    "TotalVote": 4887,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b30"
+    },
+    "CreatedAt": "2025-08-02T16:05:00",
+    "UpdatedAt": "2025-08-02T16:05:00",
+    "OfficeId": 4818,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b31"
+    },
+    "CreatedAt": "2025-08-02T16:05:00",
+    "UpdatedAt": "2025-08-02T16:06:00",
+    "OfficeId": 4818,
+    "CandidateId": 3,
+    "TotalVote": 3746,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b32"
+    },
+    "CreatedAt": "2025-08-02T16:06:00",
+    "UpdatedAt": "2025-08-02T16:06:00",
+    "OfficeId": 4818,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b33"
+    },
+    "CreatedAt": "2025-08-02T16:07:00",
+    "UpdatedAt": "2025-08-02T16:07:00",
+    "OfficeId": 4818,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b34"
+    },
+    "CreatedAt": "2025-08-02T16:08:00",
+    "UpdatedAt": "2025-08-02T16:08:00",
+    "OfficeId": 4818,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b35"
+    },
+    "CreatedAt": "2025-08-02T16:08:00",
+    "UpdatedAt": "2025-08-02T16:09:00",
+    "OfficeId": 4818,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b36"
+    },
+    "CreatedAt": "2025-08-02T16:09:00",
+    "UpdatedAt": "2025-08-02T16:09:00",
+    "OfficeId": 4818,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b37"
+    },
+    "CreatedAt": "2025-08-02T16:10:00",
+    "UpdatedAt": "2025-08-02T16:10:00",
+    "OfficeId": 4818,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b38"
+    },
+    "CreatedAt": "2025-08-02T16:11:00",
+    "UpdatedAt": "2025-08-02T16:11:00",
+    "OfficeId": 4818,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b39"
+    },
+    "CreatedAt": "2025-08-02T16:11:00",
+    "UpdatedAt": "2025-08-02T16:12:00",
+    "OfficeId": 4818,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b3a"
+    },
+    "CreatedAt": "2025-08-02T16:12:00",
+    "UpdatedAt": "2025-08-02T16:13:00",
+    "OfficeId": 4818,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b3b"
+    },
+    "CreatedAt": "2025-08-02T16:13:00",
+    "UpdatedAt": "2025-08-02T16:13:00",
+    "OfficeId": 4818,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b3c"
+    },
+    "CreatedAt": "2025-08-02T16:14:00",
+    "UpdatedAt": "2025-08-02T16:14:00",
+    "OfficeId": 4818,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b3d"
+    },
+    "CreatedAt": "2025-08-02T16:14:00",
+    "UpdatedAt": "2025-08-02T16:15:00",
+    "OfficeId": 4818,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b3e"
+    },
+    "CreatedAt": "2025-08-02T16:15:00",
+    "UpdatedAt": "2025-08-02T16:16:00",
+    "OfficeId": 4818,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b3f"
+    },
+    "CreatedAt": "2025-08-02T16:16:00",
+    "UpdatedAt": "2025-08-02T16:16:00",
+    "OfficeId": 4818,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b40"
+    },
+    "CreatedAt": "2025-08-02T16:17:00",
+    "UpdatedAt": "2025-08-02T16:17:00",
+    "OfficeId": 4818,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee152f4909dfb625ef6b41"
+    },
+    "CreatedAt": "2025-08-02T16:17:00",
+    "UpdatedAt": "2025-08-02T16:18:00",
+    "OfficeId": 4818,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b42"
+    },
+    "CreatedAt": "2025-08-02T16:18:00",
+    "UpdatedAt": "2025-08-02T16:19:00",
+    "OfficeId": 4819,
+    "CandidateId": 1,
+    "TotalVote": 3859,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b43"
+    },
+    "CreatedAt": "2025-08-02T16:19:00",
+    "UpdatedAt": "2025-08-02T16:19:00",
+    "OfficeId": 4819,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b44"
+    },
+    "CreatedAt": "2025-08-02T16:20:00",
+    "UpdatedAt": "2025-08-02T16:20:00",
+    "OfficeId": 4819,
+    "CandidateId": 3,
+    "TotalVote": 5526,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b45"
+    },
+    "CreatedAt": "2025-08-02T16:21:00",
+    "UpdatedAt": "2025-08-02T16:21:00",
+    "OfficeId": 4819,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b46"
+    },
+    "CreatedAt": "2025-08-02T16:21:00",
+    "UpdatedAt": "2025-08-02T16:22:00",
+    "OfficeId": 4819,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b47"
+    },
+    "CreatedAt": "2025-08-02T16:22:00",
+    "UpdatedAt": "2025-08-02T16:22:00",
+    "OfficeId": 4819,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b48"
+    },
+    "CreatedAt": "2025-08-02T16:23:00",
+    "UpdatedAt": "2025-08-02T16:23:00",
+    "OfficeId": 4819,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b49"
+    },
+    "CreatedAt": "2025-08-02T16:24:00",
+    "UpdatedAt": "2025-08-02T16:24:00",
+    "OfficeId": 4819,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b4a"
+    },
+    "CreatedAt": "2025-08-02T16:24:00",
+    "UpdatedAt": "2025-08-02T16:25:00",
+    "OfficeId": 4819,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b4b"
+    },
+    "CreatedAt": "2025-08-02T16:25:00",
+    "UpdatedAt": "2025-08-02T16:25:00",
+    "OfficeId": 4819,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b4c"
+    },
+    "CreatedAt": "2025-08-02T16:26:00",
+    "UpdatedAt": "2025-08-02T16:26:00",
+    "OfficeId": 4819,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b4d"
+    },
+    "CreatedAt": "2025-08-02T16:27:00",
+    "UpdatedAt": "2025-08-02T16:27:00",
+    "OfficeId": 4819,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b4e"
+    },
+    "CreatedAt": "2025-08-02T16:27:00",
+    "UpdatedAt": "2025-08-02T16:28:00",
+    "OfficeId": 4819,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b4f"
+    },
+    "CreatedAt": "2025-08-02T16:28:00",
+    "UpdatedAt": "2025-08-02T16:29:00",
+    "OfficeId": 4819,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b50"
+    },
+    "CreatedAt": "2025-08-02T16:29:00",
+    "UpdatedAt": "2025-08-02T16:29:00",
+    "OfficeId": 4819,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b51"
+    },
+    "CreatedAt": "2025-08-02T16:30:00",
+    "UpdatedAt": "2025-08-02T16:30:00",
+    "OfficeId": 4819,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b52"
+    },
+    "CreatedAt": "2025-08-02T16:30:00",
+    "UpdatedAt": "2025-08-02T16:31:00",
+    "OfficeId": 4819,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b53"
+    },
+    "CreatedAt": "2025-08-02T16:31:00",
+    "UpdatedAt": "2025-08-02T16:32:00",
+    "OfficeId": 4819,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee15b14909dfb625ef6b54"
+    },
+    "CreatedAt": "2025-08-02T16:32:00",
+    "UpdatedAt": "2025-08-02T16:32:00",
+    "OfficeId": 4819,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b55"
+    },
+    "CreatedAt": "2025-08-02T16:33:00",
+    "UpdatedAt": "2025-08-02T16:33:00",
+    "OfficeId": 1679,
+    "CandidateId": 1,
+    "TotalVote": 3193,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b56"
+    },
+    "CreatedAt": "2025-08-02T16:33:00",
+    "UpdatedAt": "2025-08-02T16:34:00",
+    "OfficeId": 1679,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b57"
+    },
+    "CreatedAt": "2025-08-02T16:34:00",
+    "UpdatedAt": "2025-08-02T16:35:00",
+    "OfficeId": 1679,
+    "CandidateId": 3,
+    "TotalVote": 6351,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b58"
+    },
+    "CreatedAt": "2025-08-02T16:35:00",
+    "UpdatedAt": "2025-08-02T16:35:00",
+    "OfficeId": 1679,
+    "CandidateId": 4,
+    "TotalVote": 1,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b59"
+    },
+    "CreatedAt": "2025-08-02T16:36:00",
+    "UpdatedAt": "2025-08-02T16:36:00",
+    "OfficeId": 1679,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b5a"
+    },
+    "CreatedAt": "2025-08-02T16:37:00",
+    "UpdatedAt": "2025-08-02T16:37:00",
+    "OfficeId": 1679,
+    "CandidateId": 6,
+    "TotalVote": 3,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b5b"
+    },
+    "CreatedAt": "2025-08-02T16:37:00",
+    "UpdatedAt": "2025-08-02T16:38:00",
+    "OfficeId": 1679,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b5c"
+    },
+    "CreatedAt": "2025-08-02T16:38:00",
+    "UpdatedAt": "2025-08-02T16:38:00",
+    "OfficeId": 1679,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b5d"
+    },
+    "CreatedAt": "2025-08-02T16:39:00",
+    "UpdatedAt": "2025-08-02T16:39:00",
+    "OfficeId": 1679,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b5e"
+    },
+    "CreatedAt": "2025-08-02T16:40:00",
+    "UpdatedAt": "2025-08-02T16:40:00",
+    "OfficeId": 1679,
+    "CandidateId": 10,
+    "TotalVote": 1,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b5f"
+    },
+    "CreatedAt": "2025-08-02T16:40:00",
+    "UpdatedAt": "2025-08-02T16:41:00",
+    "OfficeId": 1679,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b60"
+    },
+    "CreatedAt": "2025-08-02T16:41:00",
+    "UpdatedAt": "2025-08-02T16:41:00",
+    "OfficeId": 1679,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b61"
+    },
+    "CreatedAt": "2025-08-02T16:42:00",
+    "UpdatedAt": "2025-08-02T16:42:00",
+    "OfficeId": 1679,
+    "CandidateId": 13,
+    "TotalVote": 1,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b62"
+    },
+    "CreatedAt": "2025-08-02T16:43:00",
+    "UpdatedAt": "2025-08-02T16:43:00",
+    "OfficeId": 1679,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b63"
+    },
+    "CreatedAt": "2025-08-02T16:43:00",
+    "UpdatedAt": "2025-08-02T16:44:00",
+    "OfficeId": 1679,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b64"
+    },
+    "CreatedAt": "2025-08-02T16:44:00",
+    "UpdatedAt": "2025-08-02T16:45:00",
+    "OfficeId": 1679,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b65"
+    },
+    "CreatedAt": "2025-08-02T16:45:00",
+    "UpdatedAt": "2025-08-02T16:45:00",
+    "OfficeId": 1679,
+    "CandidateId": 17,
+    "TotalVote": 4,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b66"
+    },
+    "CreatedAt": "2025-08-02T16:46:00",
+    "UpdatedAt": "2025-08-02T16:46:00",
+    "OfficeId": 1679,
+    "CandidateId": 18,
+    "TotalVote": 15,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18124909dfb625ef6b67"
+    },
+    "CreatedAt": "2025-08-02T16:46:00",
+    "UpdatedAt": "2025-08-02T16:47:00",
+    "OfficeId": 1679,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b68"
+    },
+    "CreatedAt": "2025-08-02T16:47:00",
+    "UpdatedAt": "2025-08-02T16:48:00",
+    "OfficeId": 1937,
+    "CandidateId": 1,
+    "TotalVote": 2570,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b69"
+    },
+    "CreatedAt": "2025-08-02T16:48:00",
+    "UpdatedAt": "2025-08-02T16:48:00",
+    "OfficeId": 1937,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b6a"
+    },
+    "CreatedAt": "2025-08-02T16:49:00",
+    "UpdatedAt": "2025-08-02T16:49:00",
+    "OfficeId": 1937,
+    "CandidateId": 3,
+    "TotalVote": 3902,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b6b"
+    },
+    "CreatedAt": "2025-08-02T16:49:00",
+    "UpdatedAt": "2025-08-02T16:50:00",
+    "OfficeId": 1937,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b6c"
+    },
+    "CreatedAt": "2025-08-02T16:50:00",
+    "UpdatedAt": "2025-08-02T16:51:00",
+    "OfficeId": 1937,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b6d"
+    },
+    "CreatedAt": "2025-08-02T16:51:00",
+    "UpdatedAt": "2025-08-02T16:51:00",
+    "OfficeId": 1937,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b6e"
+    },
+    "CreatedAt": "2025-08-02T16:52:00",
+    "UpdatedAt": "2025-08-02T16:52:00",
+    "OfficeId": 1937,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b6f"
+    },
+    "CreatedAt": "2025-08-02T16:52:00",
+    "UpdatedAt": "2025-08-02T16:53:00",
+    "OfficeId": 1937,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b70"
+    },
+    "CreatedAt": "2025-08-02T16:53:00",
+    "UpdatedAt": "2025-08-02T16:54:00",
+    "OfficeId": 1937,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b71"
+    },
+    "CreatedAt": "2025-08-02T16:54:00",
+    "UpdatedAt": "2025-08-02T16:54:00",
+    "OfficeId": 1937,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b72"
+    },
+    "CreatedAt": "2025-08-02T16:55:00",
+    "UpdatedAt": "2025-08-02T16:55:00",
+    "OfficeId": 1937,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b73"
+    },
+    "CreatedAt": "2025-08-02T16:56:00",
+    "UpdatedAt": "2025-08-02T16:56:00",
+    "OfficeId": 1937,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b74"
+    },
+    "CreatedAt": "2025-08-02T16:56:00",
+    "UpdatedAt": "2025-08-02T16:57:00",
+    "OfficeId": 1937,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b75"
+    },
+    "CreatedAt": "2025-08-02T16:57:00",
+    "UpdatedAt": "2025-08-02T16:57:00",
+    "OfficeId": 1937,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b76"
+    },
+    "CreatedAt": "2025-08-02T16:58:00",
+    "UpdatedAt": "2025-08-02T16:58:00",
+    "OfficeId": 1937,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b77"
+    },
+    "CreatedAt": "2025-08-02T16:59:00",
+    "UpdatedAt": "2025-08-02T16:59:00",
+    "OfficeId": 1937,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b78"
+    },
+    "CreatedAt": "2025-08-02T16:59:00",
+    "UpdatedAt": "2025-08-02T17:00:00",
+    "OfficeId": 1937,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b79"
+    },
+    "CreatedAt": "2025-08-02T17:00:00",
+    "UpdatedAt": "2025-08-02T17:00:00",
+    "OfficeId": 1937,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee18ab4909dfb625ef6b7a"
+    },
+    "CreatedAt": "2025-08-02T17:01:00",
+    "UpdatedAt": "2025-08-02T17:01:00",
+    "OfficeId": 1937,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b7b"
+    },
+    "CreatedAt": "2025-08-02T17:02:00",
+    "UpdatedAt": "2025-08-02T17:02:00",
+    "OfficeId": 4822,
+    "CandidateId": 1,
+    "TotalVote": 3259,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b7c"
+    },
+    "CreatedAt": "2025-08-02T17:02:00",
+    "UpdatedAt": "2025-08-02T17:03:00",
+    "OfficeId": 4822,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b7d"
+    },
+    "CreatedAt": "2025-08-02T17:03:00",
+    "UpdatedAt": "2025-08-02T17:04:00",
+    "OfficeId": 4822,
+    "CandidateId": 3,
+    "TotalVote": 1399,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b7e"
+    },
+    "CreatedAt": "2025-08-02T17:04:00",
+    "UpdatedAt": "2025-08-02T17:04:00",
+    "OfficeId": 4822,
+    "CandidateId": 4,
+    "TotalVote": 3,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b7f"
+    },
+    "CreatedAt": "2025-08-02T17:05:00",
+    "UpdatedAt": "2025-08-02T17:05:00",
+    "OfficeId": 4822,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b80"
+    },
+    "CreatedAt": "2025-08-02T17:05:00",
+    "UpdatedAt": "2025-08-02T17:06:00",
+    "OfficeId": 4822,
+    "CandidateId": 6,
+    "TotalVote": 1,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b81"
+    },
+    "CreatedAt": "2025-08-02T17:06:00",
+    "UpdatedAt": "2025-08-02T17:07:00",
+    "OfficeId": 4822,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b82"
+    },
+    "CreatedAt": "2025-08-02T17:07:00",
+    "UpdatedAt": "2025-08-02T17:07:00",
+    "OfficeId": 4822,
+    "CandidateId": 8,
+    "TotalVote": 1,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b83"
+    },
+    "CreatedAt": "2025-08-02T17:08:00",
+    "UpdatedAt": "2025-08-02T17:08:00",
+    "OfficeId": 4822,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b84"
+    },
+    "CreatedAt": "2025-08-02T17:08:00",
+    "UpdatedAt": "2025-08-02T17:09:00",
+    "OfficeId": 4822,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b85"
+    },
+    "CreatedAt": "2025-08-02T17:09:00",
+    "UpdatedAt": "2025-08-02T17:10:00",
+    "OfficeId": 4822,
+    "CandidateId": 11,
+    "TotalVote": 2,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b86"
+    },
+    "CreatedAt": "2025-08-02T17:10:00",
+    "UpdatedAt": "2025-08-02T17:10:00",
+    "OfficeId": 4822,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b87"
+    },
+    "CreatedAt": "2025-08-02T17:11:00",
+    "UpdatedAt": "2025-08-02T17:11:00",
+    "OfficeId": 4822,
+    "CandidateId": 13,
+    "TotalVote": 5,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b88"
+    },
+    "CreatedAt": "2025-08-02T17:12:00",
+    "UpdatedAt": "2025-08-02T17:12:00",
+    "OfficeId": 4822,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b89"
+    },
+    "CreatedAt": "2025-08-02T17:12:00",
+    "UpdatedAt": "2025-08-02T17:13:00",
+    "OfficeId": 4822,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b8a"
+    },
+    "CreatedAt": "2025-08-02T17:13:00",
+    "UpdatedAt": "2025-08-02T17:13:00",
+    "OfficeId": 4822,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b8b"
+    },
+    "CreatedAt": "2025-08-02T17:14:00",
+    "UpdatedAt": "2025-08-02T17:14:00",
+    "OfficeId": 4822,
+    "CandidateId": 17,
+    "TotalVote": 5,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b8c"
+    },
+    "CreatedAt": "2025-08-02T17:15:00",
+    "UpdatedAt": "2025-08-02T17:15:00",
+    "OfficeId": 4822,
+    "CandidateId": 18,
+    "TotalVote": 111,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee19d54909dfb625ef6b8d"
+    },
+    "CreatedAt": "2025-08-02T17:15:00",
+    "UpdatedAt": "2025-08-02T17:16:00",
+    "OfficeId": 4822,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b8e"
+    },
+    "CreatedAt": "2025-08-02T17:16:00",
+    "UpdatedAt": "2025-08-02T17:16:00",
+    "OfficeId": 4823,
+    "CandidateId": 1,
+    "TotalVote": 2510,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b8f"
+    },
+    "CreatedAt": "2025-08-02T17:17:00",
+    "UpdatedAt": "2025-08-02T17:17:00",
+    "OfficeId": 4823,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b90"
+    },
+    "CreatedAt": "2025-08-02T17:18:00",
+    "UpdatedAt": "2025-08-02T17:18:00",
+    "OfficeId": 4823,
+    "CandidateId": 3,
+    "TotalVote": 2985,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b91"
+    },
+    "CreatedAt": "2025-08-02T17:18:00",
+    "UpdatedAt": "2025-08-02T17:19:00",
+    "OfficeId": 4823,
+    "CandidateId": 4,
+    "TotalVote": 2,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b92"
+    },
+    "CreatedAt": "2025-08-02T17:19:00",
+    "UpdatedAt": "2025-08-02T17:20:00",
+    "OfficeId": 4823,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b93"
+    },
+    "CreatedAt": "2025-08-02T17:20:00",
+    "UpdatedAt": "2025-08-02T17:20:00",
+    "OfficeId": 4823,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b94"
+    },
+    "CreatedAt": "2025-08-02T17:21:00",
+    "UpdatedAt": "2025-08-02T17:21:00",
+    "OfficeId": 4823,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b95"
+    },
+    "CreatedAt": "2025-08-02T17:21:00",
+    "UpdatedAt": "2025-08-02T17:22:00",
+    "OfficeId": 4823,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b96"
+    },
+    "CreatedAt": "2025-08-02T17:22:00",
+    "UpdatedAt": "2025-08-02T17:23:00",
+    "OfficeId": 4823,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b97"
+    },
+    "CreatedAt": "2025-08-02T17:23:00",
+    "UpdatedAt": "2025-08-02T17:23:00",
+    "OfficeId": 4823,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b98"
+    },
+    "CreatedAt": "2025-08-02T17:24:00",
+    "UpdatedAt": "2025-08-02T17:24:00",
+    "OfficeId": 4823,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b99"
+    },
+    "CreatedAt": "2025-08-02T17:24:00",
+    "UpdatedAt": "2025-08-02T17:25:00",
+    "OfficeId": 4823,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b9a"
+    },
+    "CreatedAt": "2025-08-02T17:25:00",
+    "UpdatedAt": "2025-08-02T17:26:00",
+    "OfficeId": 4823,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b9b"
+    },
+    "CreatedAt": "2025-08-02T17:26:00",
+    "UpdatedAt": "2025-08-02T17:26:00",
+    "OfficeId": 4823,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b9c"
+    },
+    "CreatedAt": "2025-08-02T17:27:00",
+    "UpdatedAt": "2025-08-02T17:27:00",
+    "OfficeId": 4823,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b9d"
+    },
+    "CreatedAt": "2025-08-02T17:28:00",
+    "UpdatedAt": "2025-08-02T17:28:00",
+    "OfficeId": 4823,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b9e"
+    },
+    "CreatedAt": "2025-08-02T17:28:00",
+    "UpdatedAt": "2025-08-02T17:29:00",
+    "OfficeId": 4823,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6b9f"
+    },
+    "CreatedAt": "2025-08-02T17:29:00",
+    "UpdatedAt": "2025-08-02T17:29:00",
+    "OfficeId": 4823,
+    "CandidateId": 18,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1a864909dfb625ef6ba0"
+    },
+    "CreatedAt": "2025-08-02T17:30:00",
+    "UpdatedAt": "2025-08-02T17:30:00",
+    "OfficeId": 4823,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6ba1"
+    },
+    "CreatedAt": "2025-08-02T17:31:00",
+    "UpdatedAt": "2025-08-02T17:31:00",
+    "OfficeId": 4824,
+    "CandidateId": 1,
+    "TotalVote": 4571,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6ba2"
+    },
+    "CreatedAt": "2025-08-02T17:31:00",
+    "UpdatedAt": "2025-08-02T17:32:00",
+    "OfficeId": 4824,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6ba3"
+    },
+    "CreatedAt": "2025-08-02T17:32:00",
+    "UpdatedAt": "2025-08-02T17:32:00",
+    "OfficeId": 4824,
+    "CandidateId": 3,
+    "TotalVote": 12601,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6ba4"
+    },
+    "CreatedAt": "2025-08-02T17:33:00",
+    "UpdatedAt": "2025-08-02T17:33:00",
+    "OfficeId": 4824,
+    "CandidateId": 4,
+    "TotalVote": 3,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6ba5"
+    },
+    "CreatedAt": "2025-08-02T17:34:00",
+    "UpdatedAt": "2025-08-02T17:34:00",
+    "OfficeId": 4824,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6ba6"
+    },
+    "CreatedAt": "2025-08-02T17:34:00",
+    "UpdatedAt": "2025-08-02T17:35:00",
+    "OfficeId": 4824,
+    "CandidateId": 6,
+    "TotalVote": 1,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6ba7"
+    },
+    "CreatedAt": "2025-08-02T17:35:00",
+    "UpdatedAt": "2025-08-02T17:36:00",
+    "OfficeId": 4824,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6ba8"
+    },
+    "CreatedAt": "2025-08-02T17:36:00",
+    "UpdatedAt": "2025-08-02T17:36:00",
+    "OfficeId": 4824,
+    "CandidateId": 8,
+    "TotalVote": 1,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6ba9"
+    },
+    "CreatedAt": "2025-08-02T17:37:00",
+    "UpdatedAt": "2025-08-02T17:37:00",
+    "OfficeId": 4824,
+    "CandidateId": 9,
+    "TotalVote": 1,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6baa"
+    },
+    "CreatedAt": "2025-08-02T17:37:00",
+    "UpdatedAt": "2025-08-02T17:38:00",
+    "OfficeId": 4824,
+    "CandidateId": 10,
+    "TotalVote": 2,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6bab"
+    },
+    "CreatedAt": "2025-08-02T17:38:00",
+    "UpdatedAt": "2025-08-02T17:39:00",
+    "OfficeId": 4824,
+    "CandidateId": 11,
+    "TotalVote": 1,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6bac"
+    },
+    "CreatedAt": "2025-08-02T17:39:00",
+    "UpdatedAt": "2025-08-02T17:39:00",
+    "OfficeId": 4824,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6bad"
+    },
+    "CreatedAt": "2025-08-02T17:40:00",
+    "UpdatedAt": "2025-08-02T17:40:00",
+    "OfficeId": 4824,
+    "CandidateId": 13,
+    "TotalVote": 13,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6bae"
+    },
+    "CreatedAt": "2025-08-02T17:40:00",
+    "UpdatedAt": "2025-08-02T17:41:00",
+    "OfficeId": 4824,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6baf"
+    },
+    "CreatedAt": "2025-08-02T17:41:00",
+    "UpdatedAt": "2025-08-02T17:42:00",
+    "OfficeId": 4824,
+    "CandidateId": 15,
+    "TotalVote": 3,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6bb0"
+    },
+    "CreatedAt": "2025-08-02T17:42:00",
+    "UpdatedAt": "2025-08-02T17:42:00",
+    "OfficeId": 4824,
+    "CandidateId": 16,
+    "TotalVote": 1,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6bb1"
+    },
+    "CreatedAt": "2025-08-02T17:43:00",
+    "UpdatedAt": "2025-08-02T17:43:00",
+    "OfficeId": 4824,
+    "CandidateId": 17,
+    "TotalVote": 4,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6bb2"
+    },
+    "CreatedAt": "2025-08-02T17:44:00",
+    "UpdatedAt": "2025-08-02T17:44:00",
+    "OfficeId": 4824,
+    "CandidateId": 18,
+    "TotalVote": 12,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1c7a4909dfb625ef6bb3"
+    },
+    "CreatedAt": "2025-08-02T17:44:00",
+    "UpdatedAt": "2025-08-02T17:45:00",
+    "OfficeId": 4824,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bb4"
+    },
+    "CreatedAt": "2025-08-02T17:45:00",
+    "UpdatedAt": "2025-08-02T17:45:00",
+    "OfficeId": 4825,
+    "CandidateId": 1,
+    "TotalVote": 6782,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bb5"
+    },
+    "CreatedAt": "2025-08-02T17:46:00",
+    "UpdatedAt": "2025-08-02T17:46:00",
+    "OfficeId": 4825,
+    "CandidateId": 2,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bb6"
+    },
+    "CreatedAt": "2025-08-02T17:47:00",
+    "UpdatedAt": "2025-08-02T17:47:00",
+    "OfficeId": 4825,
+    "CandidateId": 3,
+    "TotalVote": 15922,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bb7"
+    },
+    "CreatedAt": "2025-08-02T17:47:00",
+    "UpdatedAt": "2025-08-02T17:48:00",
+    "OfficeId": 4825,
+    "CandidateId": 4,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bb8"
+    },
+    "CreatedAt": "2025-08-02T17:48:00",
+    "UpdatedAt": "2025-08-02T17:48:00",
+    "OfficeId": 4825,
+    "CandidateId": 5,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bb9"
+    },
+    "CreatedAt": "2025-08-02T17:49:00",
+    "UpdatedAt": "2025-08-02T17:49:00",
+    "OfficeId": 4825,
+    "CandidateId": 6,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bba"
+    },
+    "CreatedAt": "2025-08-02T17:50:00",
+    "UpdatedAt": "2025-08-02T17:50:00",
+    "OfficeId": 4825,
+    "CandidateId": 7,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bbb"
+    },
+    "CreatedAt": "2025-08-02T17:50:00",
+    "UpdatedAt": "2025-08-02T17:51:00",
+    "OfficeId": 4825,
+    "CandidateId": 8,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bbc"
+    },
+    "CreatedAt": "2025-08-02T17:51:00",
+    "UpdatedAt": "2025-08-02T17:52:00",
+    "OfficeId": 4825,
+    "CandidateId": 9,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bbd"
+    },
+    "CreatedAt": "2025-08-02T17:52:00",
+    "UpdatedAt": "2025-08-02T17:52:00",
+    "OfficeId": 4825,
+    "CandidateId": 10,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bbe"
+    },
+    "CreatedAt": "2025-08-02T17:53:00",
+    "UpdatedAt": "2025-08-02T17:53:00",
+    "OfficeId": 4825,
+    "CandidateId": 11,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bbf"
+    },
+    "CreatedAt": "2025-08-02T17:53:00",
+    "UpdatedAt": "2025-08-02T17:54:00",
+    "OfficeId": 4825,
+    "CandidateId": 12,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bc0"
+    },
+    "CreatedAt": "2025-08-02T17:54:00",
+    "UpdatedAt": "2025-08-02T17:55:00",
+    "OfficeId": 4825,
+    "CandidateId": 13,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bc1"
+    },
+    "CreatedAt": "2025-08-02T17:55:00",
+    "UpdatedAt": "2025-08-02T17:55:00",
+    "OfficeId": 4825,
+    "CandidateId": 14,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bc2"
+    },
+    "CreatedAt": "2025-08-02T17:56:00",
+    "UpdatedAt": "2025-08-02T17:56:00",
+    "OfficeId": 4825,
+    "CandidateId": 15,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bc3"
+    },
+    "CreatedAt": "2025-08-02T17:56:00",
+    "UpdatedAt": "2025-08-02T17:57:00",
+    "OfficeId": 4825,
+    "CandidateId": 16,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bc4"
+    },
+    "CreatedAt": "2025-08-02T17:57:00",
+    "UpdatedAt": "2025-08-02T17:58:00",
+    "OfficeId": 4825,
+    "CandidateId": 17,
+    "TotalVote": 0,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bc5"
+    },
+    "CreatedAt": "2025-08-02T17:58:00",
+    "UpdatedAt": "2025-08-02T17:58:00",
+    "OfficeId": 4825,
+    "CandidateId": 18,
+    "TotalVote": 1,
+    "From": null
+  },
+  {
+    "_id": {
+      "$oid": "64ee1d344909dfb625ef6bc6"
+    },
+    "CreatedAt": "2025-08-02T17:59:00",
+    "UpdatedAt": "2025-08-02T17:59:00",
+    "OfficeId": 4825,
+    "CandidateId": 19,
+    "TotalVote": 0,
+    "From": null
+  }
+]

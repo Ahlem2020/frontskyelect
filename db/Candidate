@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "64ea394de12acca4b761101f"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "OriginalId": 1,
+  "LastName": "Ouattara ",
+  "FirstName": "Alassane",
+  "Part": "RHDP"
+},
+{
+  "_id": {
+    "$oid": "64ea394ee12acca4b7611020"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "OriginalId": 2,
+  "LastName": " Mello",
+  "FirstName": "Ahoua Don",
+  "Part": "PPA-CI"
+},
+{
+  "_id": {
+    "$oid": "64ea394ee12acca4b7611021"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "OriginalId": 3,
+  "LastName": "Billon",
+  "FirstName": "Jean-Louis",
+  "Part": "Indépendant"
+},
+{
+  "_id": {
+    "$oid": "64ea394ee12acca4b7611022"
+  },
+  "CreatedAt": {
+    "$date": "2023-08-26T17:41:34.669Z"
+  },
+  "UpdatedAt": {
+    "$date": "2023-08-26T17:41:34.669Z"
+  },
+  "OriginalId": 4,
+  "LastName": "Ehivet Gbagbo",
+  "FirstName": "Simone",
+  "Part": "MGC"
+},
+{
+  "_id": {
+    "$oid": "64ea394ee12acca4b7611024"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "OriginalId": 5,
+  "LastName": "Affi N'Guessan",
+  "FirstName": "Pascal",
+  "Part": "FPI"
+},
+{
+  "_id": {
+    "$oid": "64ea394ee12acca4b7611025"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "OriginalId": 6,
+  "LastName": "Kacou",
+  "FirstName": "Gnangbo",
+  "Part": "Indépendant"
+},
+{
+  "_id": {
+    "$oid": "64ea394ee12acca4b7611026"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "OriginalId": 7,
+  "LastName": "Toh Bi Irié",
+  "FirstName": "Vincent",
+  "Part": "Indépendant"
+},
+{
+  "_id": {
+    "$oid": "64ea394fe12acca4b7611027"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "OriginalId": 8,
+  "LastName": "Tiémoko",
+  "FirstName": "Antoine Assalé",
+  "Part": "Indépendant"
+},
+{
+  "_id": {
+    "$oid": "64ea394fe12acca4b7611029"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "OriginalId": 9,
+  "LastName": "Lagou",
+  "FirstName": "Henriette",
+  "Part": "Indépendant"
+},
+{
+  "_id": {
+    "$oid": "64ea394fe12acca4b761102a"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "OriginalId": 10,
+  "LastName": "Mike Steeve Dave",
+  "FirstName": "Jocktane",
+  "Part": "Indépendant"
+},
+{
+  "_id": {
+    "$oid": "64ea394fe12acca4b761102b"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "OriginalId": 11,
+  "LastName": "Vamy Olivier",
+  "FirstName": "Djè Bi Djè",
+  "Part": "Indépendante"
+},
+{
+  "_id": {
+    "$oid": "64ea394fe12acca4b761102c"
+  },
+  "CreatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "UpdatedAt": {
+    "$date": "2025-08-01T17:41:33.868Z"
+  },
+  "OriginalId": 12,
+  "LastName": "Israel Kouassi",
+  "FirstName": "Daniel",
+  "Part": "Indépendant"
+}]
