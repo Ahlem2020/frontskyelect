@@ -3,6 +3,7 @@ import { API_ENDPOINTS } from '../config/api';
 class AuthService {
   constructor() {
     this.baseURL = 'http://localhost:5000/api/Auth';
+    this.userBaseURL = 'http://localhost:5000/api/User';
   }
 
   async login(credentials) {
@@ -364,9 +365,32 @@ class AuthService {
   }
 
   // Profile management methods
+  async getProfile() {
+    try {
+      const response = await fetch(`${this.userBaseURL}/profile`, {
+        headers: this.getAuthHeaders(),
+      });
+
+      const data = await response.json();
+
+      if (response.ok) {
+        // Update stored user data
+        localStorage.setItem('user', JSON.stringify(data));
+        return { success: true, data };
+      } else {
+        return { success: false, error: data.message || 'Failed to get profile' };
+      }
+    } catch (error) {
+      return { 
+        success: false, 
+        error: 'Failed to get profile. Please try again.' 
+      };
+    }
+  }
+
   async updateProfile(profileData) {
     try {
-      const response = await fetch(`${this.baseURL}/profile`, {
+      const response = await fetch(`${this.userBaseURL}/profile`, {
         method: 'PUT',
         headers: this.getAuthHeaders(),
         body: JSON.stringify(profileData),
@@ -376,7 +400,7 @@ class AuthService {
 
       if (response.ok) {
         // Update stored user data
-        localStorage.setItem('user', JSON.stringify(data.user));
+        localStorage.setItem('user', JSON.stringify(data));
         return { success: true, data };
       } else {
         return { success: false, error: data.message || 'Profile update failed' };
@@ -397,9 +421,9 @@ class AuthService {
         return { success: false, error: 'User not authenticated. Please log in first.' };
       }
 
-      console.log('Fetching 2FA status from:', `${this.baseURL}/2fa/status`);
+      console.log('Fetching 2FA status from:', `${this.userBaseURL}/2fa/status`);
       
-      const response = await fetch(`${this.baseURL}/2fa/status`, {
+      const response = await fetch(`${this.userBaseURL}/2fa/status`, {
         headers: this.getAuthHeaders(),
       });
 
@@ -441,9 +465,9 @@ class AuthService {
         return { success: false, error: 'User not authenticated. Please log in first.' };
       }
 
-      console.log('Generating 2FA secret from:', `${this.baseURL}/2fa/generate`);
+      console.log('Generating 2FA secret from:', `${this.userBaseURL}/2fa/generate-secret`);
       
-      const response = await fetch(`${this.baseURL}/2fa/generate`, {
+      const response = await fetch(`${this.userBaseURL}/2fa/generate-secret`, {
         method: 'POST',
         headers: this.getAuthHeaders(),
       });
@@ -501,12 +525,12 @@ class AuthService {
         return { success: false, error: 'Verification code is required.' };
       }
 
-      console.log('Enabling 2FA at:', `${this.baseURL}/2fa/enable`);
+      console.log('Enabling 2FA at:', `${this.userBaseURL}/2fa/enable`);
       
-      const response = await fetch(`${this.baseURL}/2fa/enable`, {
+      const response = await fetch(`${this.userBaseURL}/2fa/enable`, {
         method: 'POST',
         headers: this.getAuthHeaders(),
-        body: JSON.stringify({ verificationCode }),
+        body: JSON.stringify({ code: verificationCode }),
       });
 
       console.log('Enable 2FA Response:', response.status, response.statusText);
@@ -514,11 +538,6 @@ class AuthService {
       if (!response.ok) {
         if (response.status === 401) {
           return { success: false, error: 'Authentication required. Please log in again.' };
-        } else if (response.status === 400) {
-          const errorData = await response.json().catch(() => ({}));
-          return { success: false, error: errorData.message || 'Invalid verification code.' };
-        } else if (response.status === 404) {
-          return { success: false, error: '2FA enable endpoint not found. Please check server implementation.' };
         }
       }
 
@@ -532,10 +551,9 @@ class AuthService {
           user.twoFactorEnabled = true;
           localStorage.setItem('user', JSON.stringify(user));
         }
-        return { success: true, data };
-      } else {
-        return { success: false, error: data.message || 'Failed to enable 2FA' };
       }
+      
+      return response.ok ? { success: true, data } : { success: false, error: data.message || 'Failed to enable 2FA' };
     } catch (error) {
       console.error('Enable 2FA error:', error);
       
@@ -553,13 +571,33 @@ class AuthService {
 
   async disable2FA(verificationCode) {
     try {
-      const response = await fetch(`${this.baseURL}/2fa/disable`, {
+      // Check if user is authenticated first
+      if (!this.getToken()) {
+        return { success: false, error: 'User not authenticated. Please log in first.' };
+      }
+
+      if (!verificationCode || verificationCode.trim() === '') {
+        return { success: false, error: 'Verification code is required.' };
+      }
+
+      console.log('Disabling 2FA at:', `${this.userBaseURL}/2fa/disable`);
+      
+      const response = await fetch(`${this.userBaseURL}/2fa/disable`, {
         method: 'POST',
         headers: this.getAuthHeaders(),
-        body: JSON.stringify({ verificationCode }),
+        body: JSON.stringify({ code: verificationCode }),
       });
 
+      console.log('Disable 2FA Response:', response.status, response.statusText);
+
+      if (!response.ok) {
+        if (response.status === 401) {
+          return { success: false, error: 'Authentication required. Please log in again.' };
+        }
+      }
+
       const data = await response.json();
+      console.log('Disable 2FA Data:', data);
       
       if (response.ok) {
         // Update user data in localStorage
@@ -568,13 +606,21 @@ class AuthService {
           user.twoFactorEnabled = false;
           localStorage.setItem('user', JSON.stringify(user));
         }
-        return { success: true, data };
-      } else {
-        return { success: false, error: data.message };
       }
+      
+      return response.ok ? { success: true, data } : { success: false, error: data.message || 'Failed to disable 2FA' };
     } catch (error) {
       console.error('Disable 2FA error:', error);
-      return { success: false, error: 'Failed to disable 2FA' };
+      
+      // Handle network errors
+      if (error instanceof TypeError && error.message.includes('fetch')) {
+        return { 
+          success: false, 
+          error: 'Cannot connect to server. Please ensure the backend server at localhost:5000 is running.' 
+        };
+      }
+      
+      return { success: false, error: `Failed to disable 2FA: ${error.message}` };
     }
   }
 

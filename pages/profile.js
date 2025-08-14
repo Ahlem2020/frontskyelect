@@ -13,14 +13,37 @@ const UserProfile = () => {
     const [showProfileModal, setShowProfileModal] = useState(false);
     const [show2FAModal, setShow2FAModal] = useState(false);
     const [activeTab, setActiveTab] = useState('profile');
+    const [error, setError] = useState('');
 
     useEffect(() => {
         const fetchUserData = async () => {
             try {
-                const user = authService.getUser();
-                setCurrentUser(user);
+                setLoading(true);
+                setError('');
+                
+                // Try to get profile from server first
+                const result = await authService.getProfile();
+                
+                if (result.success) {
+                    setCurrentUser(result.data);
+                } else {
+                    // Fallback to localStorage data
+                    const localUser = authService.getUser();
+                    if (localUser) {
+                        setCurrentUser(localUser);
+                    } else {
+                        setError('Failed to load profile data');
+                    }
+                }
             } catch (error) {
                 console.error('Error fetching user data:', error);
+                // Fallback to localStorage data
+                const localUser = authService.getUser();
+                if (localUser) {
+                    setCurrentUser(localUser);
+                } else {
+                    setError('Failed to load profile data');
+                }
             } finally {
                 setLoading(false);
             }
@@ -84,10 +107,66 @@ const UserProfile = () => {
         return { level: 'Needs Attention', color: 'danger', icon: 'fe-alert-circle' };
     };
 
+    const refreshProfile = async () => {
+        const fetchUserData = async () => {
+            try {
+                setLoading(true);
+                setError('');
+                
+                // Try to get profile from server first
+                const result = await authService.getProfile();
+                
+                if (result.success) {
+                    setCurrentUser(result.data);
+                } else {
+                    // Fallback to localStorage data
+                    const localUser = authService.getUser();
+                    if (localUser) {
+                        setCurrentUser(localUser);
+                    } else {
+                        setError('Failed to load profile data');
+                    }
+                }
+            } catch (error) {
+                console.error('Error fetching user data:', error);
+                // Fallback to localStorage data
+                const localUser = authService.getUser();
+                if (localUser) {
+                    setCurrentUser(localUser);
+                } else {
+                    setError('Failed to load profile data');
+                }
+            } finally {
+                setLoading(false);
+            }
+        };
+
+        await fetchUserData();
+    };
+
     if (loading) {
         return (
             <div className="d-flex justify-content-center align-items-center min-vh-100">
                 <Spinner animation="border" variant="primary" />
+            </div>
+        );
+    }
+
+    if (error && !currentUser) {
+        return (
+            <div>
+                <Seo title="Profile" />
+                <PageHeader title="Profile" item="User" active_item="Profile" />
+                <div className="container mt-4">
+                    <Alert variant="danger">
+                        <Alert.Heading>Error</Alert.Heading>
+                        <p>{error}</p>
+                        <Button variant="outline-danger" onClick={refreshProfile}>
+                            <i className="fe fe-refresh-cw me-2"></i>
+                            Retry
+                        </Button>
+                    </Alert>
+                </div>
             </div>
         );
     }
@@ -101,6 +180,10 @@ const UserProfile = () => {
                     <Alert variant="danger">
                         <Alert.Heading>Error</Alert.Heading>
                         <p>Unable to load user profile. Please try refreshing the page.</p>
+                        <Button variant="outline-danger" onClick={refreshProfile}>
+                            <i className="fe fe-refresh-cw me-2"></i>
+                            Retry
+                        </Button>
                     </Alert>
                 </div>
             </div>
